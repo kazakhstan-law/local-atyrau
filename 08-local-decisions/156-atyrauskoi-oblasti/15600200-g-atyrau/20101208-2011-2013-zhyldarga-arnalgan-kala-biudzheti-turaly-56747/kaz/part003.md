@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56747/kaz/08.12.2010
+source: https://zan.gov.kz/client/#!/doc/56747/kaz/26.01.2011
 ---
 
 ## 2013 ЖЫЛҒА АРНАЛҒАН ҚАЛАЛЫҚ БЮДЖЕТ
