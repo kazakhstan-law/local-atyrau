@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
+source: https://zan.gov.kz/client/#!/doc/56567/kaz/20.04.2011
 ---
 
 ## 2012 жылға арналған облыстық бюджет
@@ -26,7 +26,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -230,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -440,7 +440,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td colspan="2"></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -693,7 +693,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -935,7 +935,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1161,7 +1161,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1355,7 +1355,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1637,7 +1637,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -1882,7 +1882,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -2350,7 +2350,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -2532,7 +2532,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="2">АТАУЫ</td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -2740,7 +2740,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td colspan="2"></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -2969,7 +2969,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>3</td>
@@ -3227,7 +3227,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -3477,7 +3477,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -3706,7 +3706,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -3951,7 +3951,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -4196,7 +4196,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -4441,7 +4441,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
@@ -4768,7 +4768,7 @@ source: https://zan.gov.kz/client/#!/doc/56567/kaz/02.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>АТАУЫ</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
