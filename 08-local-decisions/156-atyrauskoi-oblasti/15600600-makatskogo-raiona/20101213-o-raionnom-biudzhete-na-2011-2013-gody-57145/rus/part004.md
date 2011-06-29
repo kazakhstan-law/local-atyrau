@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/57145/rus/24.03.2011
+source: https://zan.gov.kz/client/#!/doc/57145/rus/29.06.2011
 ---
 
 ## Размер финансирования бюджетных программ аппаратов акимов сельских округов в 2011 году
