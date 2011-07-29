@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56567/rus/20.04.2011
+source: https://zan.gov.kz/client/#!/doc/56567/rus/29.07.2011
 ---
 
 ## Областной бюджет на 2012 год
