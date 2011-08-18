@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56747/kaz/06.05.2011
+source: https://zan.gov.kz/client/#!/doc/56747/kaz/18.08.2011
 ---
 
 ## 2013 ЖЫЛҒА АРНАЛҒАН ҚАЛАЛЫҚ БЮДЖЕТ
@@ -2340,7 +2340,7 @@ source: https://zan.gov.kz/client/#!/doc/56747/kaz/06.05.2011
 </tr>
 <tr>
 <td></td>
-<td>Барлығы:</td>
+<td>Барлығы</td>
 <td>12326</td>
 <td>29058</td>
 <td>16087</td>
