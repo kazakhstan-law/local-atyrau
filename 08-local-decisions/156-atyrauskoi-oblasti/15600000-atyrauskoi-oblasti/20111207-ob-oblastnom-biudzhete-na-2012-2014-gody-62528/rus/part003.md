@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62528/rus/28.03.2012
+source: https://zan.gov.kz/client/#!/doc/62528/rus/11.05.2012
 ---
 
 ## Областной бюджет на 2014 год
@@ -2867,7 +2867,7 @@ source: https://zan.gov.kz/client/#!/doc/62528/rus/28.03.2012
 </tr>
 </table>
 
-> *Приоложение 4*  
+> *Приложение 4*  
 > *к решению ХХXVI сессии*  
 > *областного маслихата*  
 > *от 7 декабря 2011 года № 472-IV*
