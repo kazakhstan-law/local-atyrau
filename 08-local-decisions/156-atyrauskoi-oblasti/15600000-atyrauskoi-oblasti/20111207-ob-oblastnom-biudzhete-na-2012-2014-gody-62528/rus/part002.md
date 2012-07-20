@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62528/rus/11.05.2012
+source: https://zan.gov.kz/client/#!/doc/62528/rus/20.07.2012
 ---
 
 ## Областной бюджет на 2013 год
@@ -1499,14 +1499,6 @@ source: https://zan.gov.kz/client/#!/doc/62528/rus/11.05.2012
 <td></td>
 <td>Жилищное хозяйство</td>
 <td>2664187</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -3065,8 +3057,8 @@ source: https://zan.gov.kz/client/#!/doc/62528/rus/11.05.2012
 
 <table>
 <tr>
-<td colspan="4"></td>
-<td rowspan="4"></td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -3093,20 +3085,6 @@ source: https://zan.gov.kz/client/#!/doc/62528/rus/11.05.2012
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
 <td>2201076</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
