@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69823/rus/17.04.2013
+source: https://zan.gov.kz/client/#!/doc/69823/rus/04.07.2013
 ---
 
 ## Областной бюджет на 2014 год
@@ -4524,7 +4524,7 @@ source: https://zan.gov.kz/client/#!/doc/69823/rus/17.04.2013
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="4">Сумма, (тысяч тенге)</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
