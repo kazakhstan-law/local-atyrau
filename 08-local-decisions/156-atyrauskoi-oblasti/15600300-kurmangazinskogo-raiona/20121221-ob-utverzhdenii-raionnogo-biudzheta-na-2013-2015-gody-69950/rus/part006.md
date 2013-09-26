@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69950/rus/16.07.2013
+source: https://zan.gov.kz/client/#!/doc/69950/rus/26.09.2013
 ---
 
 ## Перечень программ развития районного бюджета на 2013 год
