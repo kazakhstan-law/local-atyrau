@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85642/kaz/13.03.2015
+source: https://zan.gov.kz/client/#!/doc/85642/kaz/10.06.2015
 ---
 
 > *Облыстық мәслихаттың ХХІХ сессиясының 2014 жылғы 15 желтоқсандағы №337-V шешіміне*  
