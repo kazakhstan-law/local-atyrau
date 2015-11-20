@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
+source: https://zan.gov.kz/client/#!/doc/85918/kaz/20.11.2015
 ---
 
 > *Махамбет аудандық мәслихаттың 2014 жылғы 26 желтоқсандағы кезекті 29-сессиясының №246 шешіміне 3 қосымша*
@@ -2017,15 +2017,13 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 </table>
 
 > *Махамбет аудандық мәслихаттың*  
-> *2014 жылғы 26 желтоқсандағы кезекті*  
-> *29-сессиясының № 246 шешіміне*  
-> *4 қосымша*
+> *2014 жылғы 26 желтоқсандағы*  
+> *кезекті 29-сессиясының*  
+> *№ 246 шешіміне 4 қосымша*
 
-# Ауылдық округтер әкімдері аппараттарының бюджеттік бағдарламаларын қаржыландыру мөлшері
+# Ауылдық округтер әкімдері аппараттарының бюджеттік бағдарламаларын қаржыландыру мөлшері (мың теңге)
 
-> *Ескерту: 4-қосымша жаңа редакцияда - Атырау облысы Махамбет аудандық мәслихатының 18.09.2015 № 315 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
-
-> *(мың теңге)*
+> *Ескерту: 4-қосымша жаңа редакцияда - Атырау облысы Махамбет аудандық мәслихатының 20.11.2015 № 327 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -2042,8 +2040,8 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="2">Алға</td>
 <td colspan="2">Ақжайық</td>
 <td colspan="2">Алмалы</td>
-<td colspan="2">Бақсай</td>
-<td>Бейбарыс</td>
+<td>Бақсай</td>
+<td colspan="2">Бейбарыс</td>
 </tr>
 <tr>
 <td>001</td>
@@ -2051,32 +2049,32 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 Қаладағы аудан, аудандық маңызы бар қала, кент,ауыл
 ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер
 </td>
-<td>11701</td>
-<td colspan="2">13094</td>
-<td colspan="2">11775</td>
-<td colspan="2">13575</td>
-<td colspan="2">12041</td>
-<td>15651</td>
+<td>11892</td>
+<td colspan="2">14624</td>
+<td colspan="2">12051</td>
+<td colspan="2">15107</td>
+<td>12676</td>
+<td colspan="2">18107</td>
 </tr>
 <tr>
 <td>003</td>
 <td colspan="2">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>717</td>
-<td colspan="2">726</td>
+<td>546</td>
+<td colspan="2">422</td>
 <td colspan="2"></td>
 <td colspan="2">1585</td>
-<td colspan="2">2855</td>
-<td>2301</td>
+<td>2855</td>
+<td colspan="2">2230</td>
 </tr>
 <tr>
 <td>004</td>
 <td colspan="2">Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>20444</td>
-<td colspan="2">22853</td>
-<td colspan="2">20713</td>
-<td colspan="2">21738</td>
-<td colspan="2">14848</td>
-<td>23618</td>
+<td>20504</td>
+<td colspan="2">22789</td>
+<td colspan="2">20910</td>
+<td colspan="2">21798</td>
+<td>14848</td>
+<td colspan="2">24667</td>
 </tr>
 <tr>
 <td>006</td>
@@ -2084,12 +2082,12 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 Жергілікті деңгейдегі мәдени
 демалыс жұмысын қолдау
 </td>
-<td>5786</td>
-<td colspan="2">5697</td>
+<td>5985</td>
+<td colspan="2">5787</td>
 <td colspan="2">10461</td>
-<td colspan="2">4521</td>
-<td colspan="2">6116</td>
-<td>8331</td>
+<td colspan="2">4551</td>
+<td>6176</td>
+<td colspan="2">8421</td>
 </tr>
 <tr>
 <td>007</td>
@@ -2098,8 +2096,8 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>008</td>
@@ -2108,28 +2106,28 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="2">675</td>
 <td colspan="2">622</td>
 <td colspan="2">750</td>
-<td colspan="2">1070</td>
-<td>1326</td>
+<td>1070</td>
+<td colspan="2">1284</td>
 </tr>
 <tr>
 <td>009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>1690</td>
-<td colspan="2">1253</td>
+<td>1662</td>
+<td colspan="2">853</td>
 <td colspan="2">2001</td>
-<td colspan="2">3418</td>
-<td colspan="2">2198</td>
-<td>2255</td>
+<td colspan="2">2979</td>
+<td>2198</td>
+<td colspan="2">2154</td>
 </tr>
 <tr>
 <td>011</td>
 <td colspan="2">Елді мекендерді абаттандыру және көгалдандыру</td>
 <td>122</td>
-<td colspan="2">582</td>
+<td colspan="2">422</td>
 <td colspan="2">122</td>
 <td colspan="2">122</td>
-<td colspan="2">499</td>
-<td>582</td>
+<td>499</td>
+<td colspan="2">485</td>
 </tr>
 <tr>
 <td>013</td>
@@ -2137,19 +2135,19 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td>40</td>
 <td colspan="2">40</td>
 <td colspan="2">40</td>
-<td colspan="2">40</td>
-<td colspan="2">40</td>
+<td colspan="2">0</td>
 <td>40</td>
+<td colspan="2">40</td>
 </tr>
 <tr>
 <td>014</td>
 <td colspan="2">Елді мекендерде сумен жабдықтауды ұйымдастыру</td>
+<td>80</td>
+<td colspan="2">474</td>
+<td colspan="2">532</td>
+<td colspan="2">767</td>
 <td></td>
-<td colspan="2">500</td>
-<td colspan="2">547</td>
-<td colspan="2">914</td>
-<td colspan="2"></td>
-<td>612</td>
+<td colspan="2">545</td>
 </tr>
 <tr>
 <td>022</td>
@@ -2158,8 +2156,8 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="2">291</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">239</td>
-<td></td>
+<td>239</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>027</td>
@@ -2168,8 +2166,8 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">1350</td>
-<td></td>
+<td>1350</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>032</td>
@@ -2178,18 +2176,18 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="2">3346</td>
 <td colspan="2"></td>
 <td colspan="2">170</td>
-<td colspan="2"></td>
-<td>200</td>
+<td></td>
+<td colspan="2">200</td>
 </tr>
 <tr>
 <td>040</td>
 <td colspan="2">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>937</td>
+<td>607</td>
 <td colspan="2">1873</td>
-<td colspan="2">1142</td>
-<td colspan="2">3483</td>
-<td colspan="2">1991</td>
-<td>3220</td>
+<td colspan="2">768</td>
+<td colspan="2">1980</td>
+<td>1577</td>
+<td colspan="2">3220</td>
 </tr>
 <tr>
 <td>041</td>
@@ -2198,18 +2196,18 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">4882</td>
-<td>2975</td>
+<td>4882</td>
+<td colspan="2">2975</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">Жинағы</td>
-<td>48661</td>
-<td colspan="2">50930</td>
-<td colspan="2">47423</td>
-<td colspan="2">50316</td>
-<td colspan="2">48129</td>
-<td>61111</td>
+<td>48662</td>
+<td colspan="2">51596</td>
+<td colspan="2">47507</td>
+<td colspan="2">49809</td>
+<td>48410</td>
+<td colspan="2">64328</td>
 </tr>
 <tr>
 <td colspan="2">Бағдарламалар коды</td>
@@ -2221,8 +2219,8 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="3">Жалғансай</td>
 <td colspan="2">Есбол</td>
 <td colspan="2">Сарайшық</td>
-<td colspan="2">Махамбет</td>
-<td colspan="2">Барлығы</td>
+<td colspan="3">Махамбет</td>
+<td>Барлығы</td>
 </tr>
 <tr>
 <td>001</td>
@@ -2230,11 +2228,11 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 Қаладағы аудан, аудандық маңызы бар қала, кент,ауыл,
 ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер
 </td>
-<td colspan="3">10044</td>
-<td colspan="2">12468</td>
-<td colspan="2">12761</td>
-<td colspan="2">28419</td>
-<td colspan="2">141529</td>
+<td colspan="3">11100</td>
+<td colspan="2">14380</td>
+<td colspan="2">13802</td>
+<td colspan="3">29204</td>
+<td>152943</td>
 </tr>
 <tr>
 <td>003</td>
@@ -2242,26 +2240,26 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="3">713</td>
 <td colspan="2">731</td>
 <td colspan="2">749</td>
-<td colspan="2">12334</td>
-<td colspan="2">22711</td>
+<td colspan="3">12156</td>
+<td>21987</td>
 </tr>
 <tr>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td colspan="3">24340</td>
-<td colspan="2">33013</td>
-<td colspan="2">25369</td>
-<td colspan="2">115306</td>
-<td colspan="2">322242</td>
+<td colspan="3">24952</td>
+<td colspan="2">34301</td>
+<td colspan="2">25429</td>
+<td colspan="3">116465</td>
+<td>326663</td>
 </tr>
 <tr>
 <td>006</td>
 <td>Жергілікті деңгейдегі мәдени демалыс жұмысын қолдау</td>
-<td colspan="3">5847</td>
-<td colspan="2">7497</td>
-<td colspan="2">4391</td>
-<td colspan="2">24505</td>
-<td colspan="2">83152</td>
+<td colspan="3">5967</td>
+<td colspan="2">7561</td>
+<td colspan="2">4451</td>
+<td colspan="3">24922</td>
+<td>84282</td>
 </tr>
 <tr>
 <td>007</td>
@@ -2269,8 +2267,8 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">1070</td>
-<td colspan="2">1070</td>
+<td colspan="3">1510</td>
+<td>1510</td>
 </tr>
 <tr>
 <td>008</td>
@@ -2278,35 +2276,35 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="3">953</td>
 <td colspan="2">626</td>
 <td colspan="2">653</td>
-<td colspan="2">15907</td>
-<td colspan="2">23149</td>
+<td colspan="3">20467</td>
+<td>27667</td>
 </tr>
 <tr>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="3">1861</td>
-<td colspan="2">6114</td>
+<td colspan="3">1806</td>
+<td colspan="2">5423</td>
 <td colspan="2">1831</td>
-<td colspan="2">19027</td>
-<td colspan="2">41648</td>
+<td colspan="3">22027</td>
+<td>42934</td>
 </tr>
 <tr>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td colspan="3">237</td>
+<td colspan="3">175</td>
 <td colspan="2">222</td>
 <td colspan="2">122</td>
-<td colspan="2">20707</td>
-<td colspan="2">23317</td>
+<td colspan="3">21515</td>
+<td>23806</td>
 </tr>
 <tr>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда ,ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="3">40</td>
+<td colspan="3">0</td>
 <td colspan="2">40</td>
 <td colspan="2">40</td>
-<td colspan="2">752</td>
-<td colspan="2">1112</td>
+<td colspan="3">752</td>
+<td>1032</td>
 </tr>
 <tr>
 <td>014</td>
@@ -2317,17 +2315,17 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="3">218</td>
 <td colspan="2">424</td>
 <td colspan="2">150</td>
-<td colspan="2">705</td>
-<td colspan="2">4070</td>
+<td colspan="3">705</td>
+<td>3895</td>
 </tr>
 <tr>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td colspan="3"></td>
-<td colspan="2">549</td>
+<td colspan="2">491</td>
 <td colspan="2">358</td>
-<td colspan="2"></td>
-<td colspan="2">1641</td>
+<td colspan="3"></td>
+<td>1583</td>
 </tr>
 <tr>
 <td>027</td>
@@ -2335,8 +2333,8 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="3"></td>
 <td colspan="2">1108</td>
 <td colspan="2"></td>
-<td colspan="2">1336</td>
-<td colspan="2">3794</td>
+<td colspan="3">1336</td>
+<td>3794</td>
 </tr>
 <tr>
 <td>032</td>
@@ -2344,17 +2342,17 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="3">300</td>
 <td colspan="2">200</td>
 <td colspan="2">2510</td>
-<td colspan="2"></td>
-<td colspan="2">9236</td>
+<td colspan="3"></td>
+<td>9236</td>
 </tr>
 <tr>
 <td>040</td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td colspan="3">1259</td>
 <td colspan="2">2195</td>
-<td colspan="2">2635</td>
-<td colspan="2">10538</td>
-<td colspan="2">29273</td>
+<td colspan="2">1953</td>
+<td colspan="3">10538</td>
+<td>25970</td>
 </tr>
 <tr>
 <td>041</td>
@@ -2362,17 +2360,17 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">6330</td>
-<td colspan="2">149818</td>
-<td colspan="2">167948</td>
+<td colspan="3">149818</td>
+<td>167948</td>
 </tr>
 <tr>
 <td></td>
 <td>Жинағы</td>
-<td colspan="3">45812</td>
-<td colspan="2">65187</td>
-<td colspan="2">57899</td>
-<td colspan="2">400424</td>
-<td colspan="2">875892</td>
+<td colspan="3">47443</td>
+<td colspan="2">67702</td>
+<td colspan="2">58378</td>
+<td colspan="3">411415</td>
+<td>895250</td>
 </tr>
 </table>
 
@@ -2431,5 +2429,68 @@ source: https://zan.gov.kz/client/#!/doc/85918/kaz/18.09.2015
 <td></td>
 <td>004</td>
 <td colspan="2">Жалпы білім беру</td>
+</tr>
+</table>
+
+> *Махамбет аудандық мәслихаттың*  
+> *2014 жылғы 26 желтоқсандағы*  
+> *кезекті 29-сессиясының*  
+> *№ 246 шешіміне 6 қосымша*
+
+# Ауылдық округтер бойынша жергілікті өзін-өзі басқару органдарына берілетін трансферттердің бөлінісі
+
+> *Ескерту. Шешім 6-қосымшамен толықтырылды - Атырау облысы Махамбет аудандық мәслихатының 20.11.2015 № 327 шешімімен (01.01.2015 бастап қолданысқа енгiзiледi).*
+
+<table>
+<tr>
+<td>Ауылдық округтердің атауы</td>
+<td>
+Сомасы,
+мың теңге
+</td>
+</tr>
+<tr>
+<td>Ақтоғай ауылдық округі</td>
+<td>279</td>
+</tr>
+<tr>
+<td>Алға ауылдық округі</td>
+<td>153</td>
+</tr>
+<tr>
+<td>Ақжайық ауылдық округі</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Алмалы ауылдық округі</td>
+<td>1103</td>
+</tr>
+<tr>
+<td>Бақсай ауылдық округі</td>
+<td>621</td>
+</tr>
+<tr>
+<td>Бейбарыс ауылдық округі</td>
+<td>778</td>
+</tr>
+<tr>
+<td>Жалғансай ауылдық округі</td>
+<td>97</td>
+</tr>
+<tr>
+<td>Есбол ауылдық округі</td>
+<td>265</td>
+</tr>
+<tr>
+<td>Сарайшық ауылдық округі</td>
+<td>401</td>
+</tr>
+<tr>
+<td>Махамбет ауылдық округі</td>
+<td>7937</td>
+</tr>
+<tr>
+<td>Барлығы</td>
+<td>11 700</td>
 </tr>
 </table>
