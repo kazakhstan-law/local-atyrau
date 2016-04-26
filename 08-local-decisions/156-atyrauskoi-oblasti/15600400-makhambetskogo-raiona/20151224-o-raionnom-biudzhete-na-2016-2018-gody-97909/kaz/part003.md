@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
+source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 ---
 
 > *Махамбет аудандық мәслихаттың*  
@@ -2072,12 +2072,13 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 </tr>
 </table>
 
-> *Махамбет аудандық мәслихаттың*  
-> *2015 жылғы 24 желтоқсандағы*  
-> *кезекті 37-сессиясының*  
-> *№ 341 шешіміне 4 қосымша*
+> *Махамбет аудандық мәслихаттың 2015*  
+> *жылғы 24 желтоқсандағы № 341*  
+> *шешіміне 4 қосымша*
 
 # Ауылдық округтер әкімдері аппараттарының бюджеттік бағдарламаларын қаржыландыру мөлшері
+
+> *Ескерту. 4-қосымша жаңа редакцияда - Атырау облысы Махамбет аудандық мәслихатының 26.04.2016 № 18 шешімімен (01.01.2016 бастап қолданысқа енгiзiледi).*
 
 > *(мың теңге)*
 
@@ -2110,7 +2111,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="2">13623</td>
 <td colspan="2">17002</td>
 <td colspan="2">15461</td>
-<td>19081</td>
+<td>18341</td>
 </tr>
 <tr>
 <td>003</td>
@@ -2129,8 +2130,8 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="2">28563</td>
 <td colspan="2">26502</td>
 <td colspan="2">27516</td>
-<td colspan="2">19040</td>
-<td>31901</td>
+<td colspan="2">20085</td>
+<td>32051</td>
 </tr>
 <tr>
 <td>006</td>
@@ -2142,7 +2143,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="2">7973</td>
 <td colspan="2">15422</td>
 <td colspan="2">5415</td>
-<td colspan="2">8123</td>
+<td colspan="2">8633</td>
 <td>11230</td>
 </tr>
 <tr>
@@ -2203,7 +2204,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="2">301</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td>1740</td>
 </tr>
 <tr>
 <td>022</td>
@@ -2221,7 +2222,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">10357</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2261,9 +2262,9 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td>48240</td>
 <td colspan="2">58024</td>
 <td colspan="2">59008</td>
-<td colspan="2">58121</td>
-<td colspan="2">57058</td>
-<td>74356</td>
+<td colspan="2">68478</td>
+<td colspan="2">58613</td>
+<td>75506</td>
 </tr>
 <tr>
 <td colspan="2">Бағдарламалар коды</td>
@@ -2288,7 +2289,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="2">14793</td>
 <td colspan="2">16345</td>
 <td colspan="2">35270</td>
-<td colspan="2">173564</td>
+<td colspan="2">172824</td>
 </tr>
 <tr>
 <td>003</td>
@@ -2306,7 +2307,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="2">43620</td>
 <td colspan="2">22734</td>
 <td colspan="2">144950</td>
-<td colspan="2">391288</td>
+<td colspan="2">392483</td>
 </tr>
 <tr>
 <td>006</td>
@@ -2314,8 +2315,8 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="3">7188</td>
 <td colspan="2">9602</td>
 <td colspan="2">5258</td>
-<td colspan="2">30120</td>
-<td colspan="2">109122</td>
+<td colspan="2">30300</td>
+<td colspan="2">109812</td>
 </tr>
 <tr>
 <td>007</td>
@@ -2372,7 +2373,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">273</td>
-<td colspan="2">1669</td>
+<td colspan="2">3409</td>
 </tr>
 <tr>
 <td>022</td>
@@ -2390,16 +2391,16 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <td colspan="2">1548</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">1548</td>
+<td colspan="2">11905</td>
 </tr>
 <tr>
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="3">1056</td>
+<td colspan="3">1431</td>
 <td colspan="2">993</td>
 <td colspan="2">187</td>
-<td colspan="2">2050</td>
-<td colspan="2">8762</td>
+<td colspan="2">47050</td>
+<td colspan="2">54137</td>
 </tr>
 <tr>
 <td>040</td>
@@ -2422,11 +2423,11 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/24.12.2015
 <tr>
 <td></td>
 <td>Жинағы</td>
-<td colspan="3">53533</td>
+<td colspan="3">53908</td>
 <td colspan="2">74795</td>
 <td colspan="2">53765</td>
-<td colspan="2">435343</td>
-<td colspan="2">972243</td>
+<td colspan="2">480523</td>
+<td colspan="2">1030860</td>
 </tr>
 </table>
 
