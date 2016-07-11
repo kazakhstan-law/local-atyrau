@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97600/kaz/25.04.2016
+source: https://zan.gov.kz/client/#!/doc/97600/kaz/11.07.2016
 ---
 
 > *Аудандық мәслихаттың*  
@@ -1638,188 +1638,213 @@ source: https://zan.gov.kz/client/#!/doc/97600/kaz/25.04.2016
 </tr>
 </table>
 
-> *Аудандық мәслихаттың*  
-> *2015 жылғы 23 желтоқсандағы*  
-> *№291-V шешіміне 5 қосымша*
+> *Аудандық мәслихаттың 2015 жылғы*  
+> *23 желтоқсандағы №291-V шешіміне*  
+> *5 қосымша*
 
-# 2016 жылға арналған аудандық бюджеттің құрамында әрбір ауылдық округ әкімі аппаратының бюджеттік бағдарламаларын қаржыландыру мөлшері
+# Ауылдық округтер әкiмдерi аппараттарының 2016 жылға арналған бюджеттiк бағдарламаларын қаржыландыру көлемі (мың теңге)
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Атырау облысы Исатай аудандық мәслихатының 25.04.2016 № 19-VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 5-қосымша жаңа редакцияда - Атырау облысы Исатай аудандық мәслихатының 11.07.2016 № 36-VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="2">Бағдарлама</td>
-<td colspan="12">Бюджеттік бағдарлама атауы</td>
-<td colspan="5">Аққыстау</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="31">Ауылдық округтер әкiмдерi аппараттарының 2016 жылға арналған бюджеттiк бағдарламаларын қаржыландыру көлемі (мың теңге)</td>
+</tr>
+<tr>
+<td colspan="5">Бағдарлама</td>
+<td colspan="16">Бюджеттік бағдарлама атауы</td>
+<td colspan="2">Аққыстау</td>
 <td colspan="2">Исатай</td>
-<td colspan="4">Жанбай</td>
-<td colspan="2">забурын</td>
+<td colspan="3">Жанбай</td>
+<td colspan="3">забурын</td>
 </tr>
 <tr>
-<td colspan="2">001</td>
-<td colspan="12">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="5">31 901</td>
+<td colspan="5">001</td>
+<td colspan="16">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">33 625</td>
 <td colspan="2">16 981</td>
-<td colspan="4">19 884</td>
-<td colspan="2">14 849</td>
+<td colspan="3">35 827</td>
+<td colspan="3">15 879</td>
 </tr>
 <tr>
-<td colspan="2">003</td>
-<td colspan="12">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td colspan="5">3 765</td>
+<td colspan="5">003</td>
+<td colspan="16">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
+<td colspan="2">4 496</td>
 <td colspan="2">2 167</td>
-<td colspan="4">2 932</td>
-<td colspan="2">2 747</td>
+<td colspan="3">2 932</td>
+<td colspan="3">2 747</td>
 </tr>
 <tr>
-<td colspan="2">004</td>
-<td colspan="12">Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td colspan="5">149 246</td>
+<td colspan="5">004</td>
+<td colspan="16">Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
+<td colspan="2">159 626</td>
 <td colspan="2">20 646</td>
-<td colspan="4">32 828</td>
-<td colspan="2">19 576</td>
+<td colspan="3">32 828</td>
+<td colspan="3">19 576</td>
 </tr>
 <tr>
-<td colspan="2">006</td>
-<td colspan="12">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td colspan="5"></td>
+<td colspan="5">006</td>
+<td colspan="16">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td colspan="2"></td>
 <td colspan="2">6 281</td>
-<td colspan="4">6 360</td>
-<td colspan="2">6 091</td>
+<td colspan="3">6 360</td>
+<td colspan="3">6 091</td>
 </tr>
 <tr>
-<td colspan="2">007</td>
-<td colspan="12">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="5">324</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">022</td>
-<td colspan="12">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="5">7 355</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">180</td>
-</tr>
-<tr>
-<td colspan="2">032</td>
-<td colspan="12">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="5">13 700</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">040</td>
-<td colspan="12">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td colspan="5">8 625</td>
-<td colspan="2">1 388</td>
-<td colspan="4">2 905</td>
-<td colspan="2">1 144</td>
-</tr>
-<tr>
-<td colspan="2">041</td>
-<td colspan="12">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="5">37 018</td>
-<td colspan="2">7 495</td>
-<td colspan="4">15 046</td>
-<td colspan="2">3 919</td>
-</tr>
-<tr>
-<td colspan="14">ЖИНАҒЫ</td>
-<td colspan="5">251 934</td>
-<td colspan="2">54 958</td>
-<td colspan="4">79 955</td>
-<td colspan="2">48 506</td>
-</tr>
-<tr>
-<td colspan="2">Бағдарлама</td>
-<td colspan="12">Бюджеттік бағдарлама атауы</td>
-<td colspan="5">Нарын</td>
-<td colspan="2">Қамысқала</td>
-<td colspan="4">Тұщықұдық</td>
-<td colspan="2">Барлығы (мың теңге)</td>
-</tr>
-<tr>
-<td colspan="2">001</td>
-<td colspan="12">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="5">11 573</td>
-<td colspan="2">17 060</td>
-<td colspan="4">22 700</td>
-<td colspan="2">134 948</td>
-</tr>
-<tr>
-<td colspan="2">003</td>
-<td colspan="12">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td colspan="5">457</td>
-<td colspan="2">2 768</td>
-<td colspan="4">3 795</td>
-<td colspan="2">18 631</td>
-</tr>
-<tr>
-<td colspan="2">004</td>
-<td colspan="12">Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td colspan="5">186</td>
-<td colspan="2">29 752</td>
-<td colspan="4">44 853</td>
-<td colspan="2">297 087</td>
-</tr>
-<tr>
-<td colspan="2">006</td>
-<td colspan="12">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td colspan="5">5 840</td>
-<td colspan="2">10 640</td>
-<td colspan="4">17 744</td>
-<td colspan="2">52 956</td>
-</tr>
-<tr>
-<td colspan="2">007</td>
-<td colspan="12">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
+<td colspan="5">007</td>
+<td colspan="16">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td colspan="2">324</td>
-</tr>
-<tr>
-<td colspan="2">022</td>
-<td colspan="12">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="5"></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">7 535</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="2">032</td>
-<td colspan="12">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="5"></td>
+<td colspan="5">014</td>
+<td colspan="16">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td colspan="2">1 194</td>
+<td colspan="2">1 798</td>
+<td colspan="3">1 933</td>
+<td colspan="3">1 203</td>
+</tr>
+<tr>
+<td colspan="5">022</td>
+<td colspan="16">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="2">7 355</td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2">13 700</td>
+<td colspan="3"></td>
+<td colspan="3">180</td>
 </tr>
 <tr>
-<td colspan="2">040</td>
-<td colspan="12">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td colspan="5">1 240</td>
+<td colspan="5">032</td>
+<td colspan="16">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
+<td colspan="2">12 574</td>
+<td colspan="2">1 276</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="5">040</td>
+<td colspan="16">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td colspan="2">8 625</td>
+<td colspan="2">1 388</td>
+<td colspan="3">2 905</td>
+<td colspan="3">1 144</td>
+</tr>
+<tr>
+<td colspan="5">041</td>
+<td colspan="16">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td colspan="2">46 144</td>
+<td colspan="2">7 495</td>
+<td colspan="3">15 046</td>
+<td colspan="3">3 919</td>
+</tr>
+<tr>
+<td colspan="21">ЖИНАҒЫ</td>
+<td colspan="2">273 963</td>
+<td colspan="2">58 032</td>
+<td colspan="3">97 831</td>
+<td colspan="3">50 739</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5">Бағдарлама</td>
+<td colspan="16">Бюджеттік бағдарлама атауы</td>
+<td colspan="2">Нарын</td>
+<td colspan="2">Қамысқала</td>
+<td colspan="3">Тұщықұдық</td>
+<td colspan="3">Барлығы (мың теңге)</td>
+</tr>
+<tr>
+<td colspan="5">001</td>
+<td colspan="16">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">11 573</td>
+<td colspan="2">18 705</td>
+<td colspan="3">24 193</td>
+<td colspan="3">156 783</td>
+</tr>
+<tr>
+<td colspan="5">003</td>
+<td colspan="16">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
+<td colspan="2">457</td>
+<td colspan="2">2 768</td>
+<td colspan="3">3 795</td>
+<td colspan="3">19 362</td>
+</tr>
+<tr>
+<td colspan="5">004</td>
+<td colspan="16">Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
+<td colspan="2">186</td>
+<td colspan="2">29 752</td>
+<td colspan="3">47 430</td>
+<td colspan="3">310 044</td>
+</tr>
+<tr>
+<td colspan="5">006</td>
+<td colspan="16">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td colspan="2">5 840</td>
+<td colspan="2">12 036</td>
+<td colspan="3">17 744</td>
+<td colspan="3">54 352</td>
+</tr>
+<tr>
+<td colspan="5">007</td>
+<td colspan="16">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">324</td>
+</tr>
+<tr>
+<td colspan="5">014</td>
+<td colspan="16">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td colspan="2"></td>
+<td colspan="2">1 960</td>
+<td colspan="3">1 912</td>
+<td colspan="3">10 000</td>
+</tr>
+<tr>
+<td colspan="5">022</td>
+<td colspan="16">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">7 535</td>
+</tr>
+<tr>
+<td colspan="5">032</td>
+<td colspan="16">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
+<td colspan="2">2 246</td>
+<td colspan="2"></td>
+<td colspan="3">14 000</td>
+<td colspan="3">30 096</td>
+</tr>
+<tr>
+<td colspan="5">040</td>
+<td colspan="16">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td colspan="2">1 240</td>
 <td colspan="2">3 660</td>
-<td colspan="4">4 745</td>
-<td colspan="2">23 707</td>
+<td colspan="3">4 745</td>
+<td colspan="3">23 707</td>
 </tr>
 <tr>
-<td colspan="2">041</td>
-<td colspan="12">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="5">19 619</td>
+<td colspan="5">041</td>
+<td colspan="16">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td colspan="2">19 619</td>
 <td colspan="2"></td>
-<td colspan="4">20 667</td>
-<td colspan="2">103 764</td>
+<td colspan="3">20 667</td>
+<td colspan="3">112 890</td>
 </tr>
 <tr>
-<td colspan="14">ЖИНАҒЫ</td>
-<td colspan="5">38 915</td>
-<td colspan="2">63 880</td>
-<td colspan="4">114 504</td>
-<td colspan="2">652 652</td>
+<td colspan="21">ЖИНАҒЫ</td>
+<td colspan="2">41 161</td>
+<td colspan="2">68 881</td>
+<td colspan="3">134 486</td>
+<td colspan="3">725 093</td>
 </tr>
 </table>
 
