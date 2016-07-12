@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
+source: https://zan.gov.kz/client/#!/doc/97909/kaz/12.07.2016
 ---
 
 > *Махамбет аудандық мәслихаттың*  
@@ -2072,13 +2072,13 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 </tr>
 </table>
 
-> *Махамбет аудандық мәслихаттың 2015*  
-> *жылғы 24 желтоқсандағы № 341*  
-> *шешіміне 4 қосымша*
+> *Махамбет аудандық мәслихаттың*  
+> *2015 жылғы 24 желтоқсандағы*  
+> *№ 341 шешіміне 4 қосымша*
 
 # Ауылдық округтер әкімдері аппараттарының бюджеттік бағдарламаларын қаржыландыру мөлшері
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Атырау облысы Махамбет аудандық мәслихатының 26.04.2016 № 18 шешімімен (01.01.2016 бастап қолданысқа енгiзiледi).*
+> *Ескерту. 4-қосымша жаңа редакцияда - Махамбет аудандық мәслихатының 12.07.2016 № 29 шешімімен (01.01.2016 бастап қолданысқа енгiзiледi).*
 
 > *(мың теңге)*
 
@@ -2106,12 +2106,12 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 Қаладағы аудан, аудандық маңызы бар қала, кент,ауыл
 ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер
 </td>
-<td>14137</td>
-<td colspan="2">15649</td>
-<td colspan="2">13623</td>
-<td colspan="2">17002</td>
-<td colspan="2">15461</td>
-<td>18341</td>
+<td>14187</td>
+<td colspan="2">15895</td>
+<td colspan="2">13913</td>
+<td colspan="2">17710</td>
+<td colspan="2">15611</td>
+<td>18661</td>
 </tr>
 <tr>
 <td>003</td>
@@ -2126,11 +2126,11 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <tr>
 <td>004</td>
 <td colspan="2">Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>17438</td>
-<td colspan="2">28563</td>
-<td colspan="2">26502</td>
-<td colspan="2">27516</td>
-<td colspan="2">20085</td>
+<td>18038</td>
+<td colspan="2">29193</td>
+<td colspan="2">26882</td>
+<td colspan="2">27911</td>
+<td colspan="2">20385</td>
 <td>32051</td>
 </tr>
 <tr>
@@ -2139,12 +2139,12 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 Жергілікті деңгейдегі мәдени
 демалыс жұмысын қолдау
 </td>
-<td>8791</td>
+<td>8941</td>
 <td colspan="2">7973</td>
-<td colspan="2">15422</td>
-<td colspan="2">5415</td>
-<td colspan="2">8633</td>
-<td>11230</td>
+<td colspan="2">15972</td>
+<td colspan="2">5735</td>
+<td colspan="2">8783</td>
+<td>11440</td>
 </tr>
 <tr>
 <td>007</td>
@@ -2154,7 +2154,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
+<td>800</td>
 </tr>
 <tr>
 <td>008</td>
@@ -2222,19 +2222,19 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">10357</td>
+<td colspan="2">6761</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>032</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>186</td>
-<td colspan="2">1056</td>
-<td colspan="2">931</td>
-<td colspan="2">1184</td>
-<td colspan="2">932</td>
-<td>187</td>
+<td>2608</td>
+<td colspan="2">2453</td>
+<td colspan="2">556</td>
+<td colspan="2">2663</td>
+<td colspan="2">531</td>
+<td>59391</td>
 </tr>
 <tr>
 <td>040</td>
@@ -2259,12 +2259,12 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <tr>
 <td></td>
 <td colspan="2">Жинағы</td>
-<td>48240</td>
-<td colspan="2">58024</td>
-<td colspan="2">59008</td>
-<td colspan="2">68478</td>
-<td colspan="2">58613</td>
-<td>75506</td>
+<td>51462</td>
+<td colspan="2">60297</td>
+<td colspan="2">59853</td>
+<td colspan="2">67784</td>
+<td colspan="2">58812</td>
+<td>136040</td>
 </tr>
 <tr>
 <td colspan="2">Бағдарламалар коды</td>
@@ -2286,10 +2286,10 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер
 </td>
 <td colspan="3">12203</td>
-<td colspan="2">14793</td>
+<td colspan="2">14943</td>
 <td colspan="2">16345</td>
-<td colspan="2">35270</td>
-<td colspan="2">172824</td>
+<td colspan="2">33884</td>
+<td colspan="2">173352</td>
 </tr>
 <tr>
 <td>003</td>
@@ -2303,20 +2303,20 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <tr>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td colspan="3">29024</td>
-<td colspan="2">43620</td>
-<td colspan="2">22734</td>
-<td colspan="2">144950</td>
-<td colspan="2">392483</td>
+<td colspan="3">29654</td>
+<td colspan="2">44040</td>
+<td colspan="2">22979</td>
+<td colspan="2">147799</td>
+<td colspan="2">398932</td>
 </tr>
 <tr>
 <td>006</td>
 <td>Жергілікті деңгейдегі мәдени демалыс жұмысын қолдау</td>
-<td colspan="3">7188</td>
-<td colspan="2">9602</td>
-<td colspan="2">5258</td>
-<td colspan="2">30300</td>
-<td colspan="2">109812</td>
+<td colspan="3">7608</td>
+<td colspan="2">9874</td>
+<td colspan="2">5648</td>
+<td colspan="2">31410</td>
+<td colspan="2">113384</td>
 </tr>
 <tr>
 <td>007</td>
@@ -2325,16 +2325,16 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">800</td>
 </tr>
 <tr>
 <td>008</td>
 <td>Елді мекендерде көшелерді жарықтандыру</td>
-<td colspan="3">873</td>
+<td colspan="3">1323</td>
 <td colspan="2">669</td>
 <td colspan="2">698</td>
 <td colspan="2">16985</td>
-<td colspan="2">25216</td>
+<td colspan="2">25666</td>
 </tr>
 <tr>
 <td>009</td>
@@ -2342,8 +2342,8 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <td colspan="3">271</td>
 <td colspan="2">329</td>
 <td colspan="2">561</td>
-<td colspan="2">12345</td>
-<td colspan="2">15245</td>
+<td colspan="2">11903</td>
+<td colspan="2">14803</td>
 </tr>
 <tr>
 <td>011</td>
@@ -2372,8 +2372,8 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <td colspan="3">631</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">273</td>
-<td colspan="2">3409</td>
+<td colspan="2">715</td>
+<td colspan="2">3851</td>
 </tr>
 <tr>
 <td>022</td>
@@ -2388,19 +2388,19 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <td>027</td>
 <td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
 <td colspan="3"></td>
-<td colspan="2">1548</td>
+<td colspan="2">1426</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">11905</td>
+<td colspan="2">8187</td>
 </tr>
 <tr>
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="3">1431</td>
-<td colspan="2">993</td>
+<td colspan="3">894</td>
+<td colspan="2">4602</td>
 <td colspan="2">187</td>
-<td colspan="2">47050</td>
-<td colspan="2">54137</td>
+<td colspan="2">101123</td>
+<td colspan="2">175008</td>
 </tr>
 <tr>
 <td>040</td>
@@ -2417,17 +2417,17 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/26.04.2016
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">4291</td>
-<td colspan="2">165096</td>
-<td colspan="2">182180</td>
+<td colspan="2">145096</td>
+<td colspan="2">162180</td>
 </tr>
 <tr>
 <td></td>
 <td>Жинағы</td>
-<td colspan="3">53908</td>
-<td colspan="2">74795</td>
-<td colspan="2">53765</td>
-<td colspan="2">480523</td>
-<td colspan="2">1030860</td>
+<td colspan="3">54871</td>
+<td colspan="2">79124</td>
+<td colspan="2">54400</td>
+<td colspan="2">517169</td>
+<td colspan="2">1139812</td>
 </tr>
 </table>
 
