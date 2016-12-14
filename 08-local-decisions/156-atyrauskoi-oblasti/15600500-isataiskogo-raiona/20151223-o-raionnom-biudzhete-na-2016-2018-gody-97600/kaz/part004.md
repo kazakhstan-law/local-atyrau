@@ -1,28 +1,71 @@
 ---
-part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
+part_of: ../kaz.md
+source: https://zan.gov.kz/client/#!/doc/97600/kaz/14.12.2016
 ---
 
-> *Приложение 5*  
-> *к решению районного маслихата*  
-> *от 23 декабря 2015 года №291-V*
+> *Аудандық мәслихаттың*  
+> *2015 жылғы 23 желтоқсандағы*  
+> *№291-V шешіміне 4-қосымша*
 
-# Финансирование бюджетных программ районного бюджета на 2016 год в разрезе сельских округов в следующих размерах:
-
-> *Сноска. Приложение 5 - в редакции решения Исатайского районного маслихата Атырауской области от 14.12.2016 № 61-VI (вводится в действие с 01.01.2016).*
+# 2016 жылға арналған аудандық бюджеттің орындалу процесінде қысқартуға жатпайтын бюджеттік бағдарлама тізбесі
 
 <table>
 <tr>
-<td>Программа</td>
-<td>Наименование бюджетных программ</td>
-<td>Аккистау</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>Функционалдық топ</td>
+<td>Бюджеттік бағдарлама әкімшісі</td>
+<td>Бюджеттік бағдарлама</td>
+<td>Атауы</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
+<td></td>
+<td>Білім беру</td>
+</tr>
+<tr>
+<td></td>
+<td>464</td>
+<td></td>
+<td>Аудандық білім беру бөлімі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>003</td>
+<td>Жалпы білім беру</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *Аудандық мәслихаттың 2015*  
+> *жылғы23 желтоқсандағы*  
+> *№291-V шешіміне*  
+> *5 қосымша*
+
+# 2016 жылға арналған аудандық бюджеттің құрамында әрбір ауылдық округ әкімі аппаратының бюджеттік бағдарламаларын қаржыландыру мөлшері
+
+> *Ескерту. 5-қосымша жаңа редакцияда - Атырау облысы Исатай аудандық мәслихатының 14.12.2016 № 61-VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+
+<table>
+<tr>
+<td>Бағдарлама</td>
+<td>Бюджеттік бағдарлама атауы</td>
+<td>Аққыстау</td>
 <td>Исатай</td>
 <td>Жанбай</td>
-<td>Забурун</td>
+<td>забурын</td>
 </tr>
 <tr>
 <td>001</td>
-<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td>37 786</td>
 <td>19 603</td>
 <td>35 036</td>
@@ -30,7 +73,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>003</td>
-<td>Оказание социальной помощи нуждающимся гражданам на дому</td>
+<td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
 <td>4 590</td>
 <td>2 164</td>
 <td>3 203</td>
@@ -38,7 +81,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>004</td>
-<td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
+<td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
 <td>181 692</td>
 <td>22 264</td>
 <td>35 686</td>
@@ -46,7 +89,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>006</td>
-<td>Поддержка культурно-досуговой работы на местном уровне</td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
 <td>0</td>
 <td>6 832</td>
 <td>6 866</td>
@@ -54,7 +97,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>007</td>
-<td>Организация сохранения государственного жилищного фонда города районного значения, поселка, села, сельского округа</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>2 024</td>
 <td>0</td>
 <td>0</td>
@@ -62,7 +105,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
+<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>300</td>
 <td>0</td>
 <td>0</td>
@@ -70,15 +113,23 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>014</td>
-<td>Организация водоснабжения населенных пунктов</td>
+<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
 <td>2 801</td>
 <td>1 798</td>
 <td>3 093</td>
 <td>1 203</td>
 </tr>
 <tr>
+<td>027</td>
+<td>Жұмыспен қамту 2020 жол картасы бойынша ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
 <td>022</td>
-<td>Капитальные расходы государственного органа</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -86,7 +137,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>032</td>
-<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
 <td>14 052</td>
 <td>1 276</td>
 <td>0</td>
@@ -94,7 +145,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>040</td>
-<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>8 625</td>
 <td>1 388</td>
 <td>2 905</td>
@@ -102,14 +153,14 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>041</td>
-<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
 <td>50 206</td>
 <td>8 045</td>
 <td>15 655</td>
 <td>4 184</td>
 </tr>
 <tr>
-<td colspan="2">ВСЕГО</td>
+<td colspan="2">ЖИНАҒЫ</td>
 <td>302 076</td>
 <td>63 370</td>
 <td>102 444</td>
@@ -119,16 +170,16 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td></td>
 </tr>
 <tr>
-<td>Программа</td>
-<td>Наименование бюджетных программ</td>
+<td>Бағдарлама</td>
+<td>Бюджеттік бағдарлама атауы</td>
 <td>Нарын</td>
-<td>Камыскала</td>
-<td>Тущыкудук</td>
-<td>Сумма (тыс.тенге)</td>
+<td>Қамысқала</td>
+<td>Тұщықұдық</td>
+<td>Барлығы (мың теңге)</td>
 </tr>
 <tr>
 <td>001</td>
-<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td>12 411</td>
 <td>19 718</td>
 <td>26 016</td>
@@ -136,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>003</td>
-<td>Оказание социальной помощи нуждающимся гражданам на дому</td>
+<td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
 <td>579</td>
 <td>2 978</td>
 <td>3 432</td>
@@ -144,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>004</td>
-<td>Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
+<td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
 <td>792</td>
 <td>18 263</td>
 <td>48 962</td>
@@ -152,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>006</td>
-<td>Поддержка культурно-досуговой работы на местном уровне</td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
 <td>7 252</td>
 <td>12 815</td>
 <td>18 618</td>
@@ -160,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>007</td>
-<td>Организация сохранения государственного жилищного фонда города районного значения, поселка, села, сельского округа</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -168,7 +219,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
+<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -176,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>014</td>
-<td>Организация водоснабжения населенных пунктов</td>
+<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
 <td>693</td>
 <td>1 000</td>
 <td>3 500</td>
@@ -184,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>022</td>
-<td>Капитальные расходы государственного органа</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -192,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>032</td>
-<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
 <td>1 496</td>
 <td>0</td>
 <td>14 000</td>
@@ -200,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>040</td>
-<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>1 240</td>
 <td>3 660</td>
 <td>4 745</td>
@@ -208,14 +259,14 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td>041</td>
-<td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
+<td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
 <td>20 688</td>
 <td>0</td>
 <td>20 144</td>
 <td>118 922</td>
 </tr>
 <tr>
-<td colspan="2">ВСЕГО</td>
+<td colspan="2">ЖИНАҒЫ</td>
 <td>45 151</td>
 <td>58 434</td>
 <td>139 417</td>
@@ -223,169 +274,163 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 </table>
 
-> *Приложение 6*  
-> *к решению районного маслихата*  
-> *от 23 декабря 2015 года №291-V*
+> *Аудандық мәслихаттың 2015*  
+> *жылғы 23 желтоқсандағы*  
+> *№291-V шешіміне 6 қосымша*
 
-# Объем трансфертов органов местного самоуправления на 2016 год
+# 2016 жылға жергілікті өзін-өзі басқару органдарына берілетін трансферттер
 
-> *Сноска. Приложение 6 - в редакции решения Исатайского районного маслихата Атырауской области от 14.12.2016 № 61-VI (вводится в действие с 01.01.2016).*
+> *Ескерту. 6-қосымша жаңа редакцияда - Атырау облысы Исатай аудандық мәслихатының 14.12.2016 № 61-VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="15"></td>
+<td colspan="17"></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">Код бюджетной классификации</td>
-<td rowspan="2">Наименования налоговых поступлений</td>
-<td colspan="13">Наименование сельских округов</td>
+<td rowspan="2">Бюджеттік сыныптама коды</td>
+<td rowspan="2">Салықтық түсімдер атауы</td>
+<td colspan="15">Ауылдық округтердің атауы</td>
 </tr>
 <tr>
-<td>Аккистау</td>
-<td>Исатай</td>
+<td colspan="2">Аққыстау</td>
+<td colspan="2">Исатай</td>
 <td colspan="2">Жанбай</td>
-<td colspan="2">Забурун</td>
+<td colspan="2">Забурын</td>
 <td colspan="2">Нарын</td>
-<td>Камыскала</td>
-<td colspan="2">Тущыкудук</td>
-<td colspan="2">Итого, тысяч тенге</td>
+<td colspan="2">Қамыскала</td>
+<td colspan="2">Тұщықудык</td>
+<td>Барлығы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="3">101202</td>
-<td>Индивидуальный подоходный налог с доходов, не облагаемых у источника выплаты</td>
-<td>15121</td>
-<td>1350</td>
+<td>101202</td>
+<td>Төлем көзінен салық салынбайтын табыстардан ұсталатын жеке табыс салығы</td>
+<td colspan="2">15121</td>
+<td colspan="2">1350</td>
 <td colspan="2">2950</td>
 <td colspan="2">900</td>
 <td colspan="2">670</td>
-<td>5748</td>
+<td colspan="2">5748</td>
 <td colspan="2">3600</td>
-<td colspan="2">30339</td>
+<td>30339</td>
 </tr>
 <tr>
-<td colspan="3">104102</td>
-<td>Hалог на имущество физических лиц</td>
-<td>479</td>
-<td>23</td>
+<td>104102</td>
+<td>Жеке тұлғалардың мүлкiне салынатын салық</td>
+<td colspan="2">479</td>
+<td colspan="2">23</td>
 <td colspan="2">104</td>
 <td colspan="2">39</td>
 <td colspan="2">90</td>
-<td>170</td>
+<td colspan="2">170</td>
 <td colspan="2">200</td>
-<td colspan="2">1105</td>
+<td>1105</td>
 </tr>
 <tr>
-<td colspan="3">104302</td>
-<td>Земельный налог с физических лиц на земли населенных пунктов</td>
-<td>297</td>
-<td>39</td>
+<td>104302</td>
+<td>Елдi мекендер жерлерiне жеке тұлғалардан алынатын жер салығы</td>
+<td colspan="2">297</td>
+<td colspan="2">39</td>
 <td colspan="2">44</td>
 <td colspan="2">10</td>
 <td colspan="2">75</td>
-<td>150</td>
+<td colspan="2">150</td>
 <td colspan="2">200</td>
-<td colspan="2">815</td>
+<td>815</td>
 </tr>
 <tr>
-<td colspan="3">104309</td>
-<td>Земельный налог , за исключением земельного налога с физических лиц на земли населенных пунктов</td>
-<td>215</td>
-<td></td>
+<td>104309</td>
+<td>Елдi мекендер жерлерiне жеке тұлғалардан алынатын жер салығын қоспағанда, жер салығы</td>
+<td colspan="2">215</td>
+<td colspan="2">0</td>
 <td colspan="2">221</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
 <td colspan="2">226</td>
-<td colspan="2">662</td>
+<td>662</td>
 </tr>
 <tr>
-<td colspan="3">104401</td>
-<td>Hалог на транспортные средства с юридических лиц</td>
-<td>1500</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
+<td>104401</td>
+<td>Заңды тұлғалардан көлiк құралдарына салынатын салық</td>
+<td colspan="2">1500</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
 <td colspan="2">454</td>
-<td colspan="2">1954</td>
+<td>1954</td>
 </tr>
 <tr>
-<td colspan="3">104402</td>
-<td>Hалог на транспортные средства с физических лиц</td>
-<td>4939</td>
-<td>1063</td>
+<td>104402</td>
+<td>Жеке тұлғалардан көлiк құралдарына салынатын салық</td>
+<td colspan="2">4939</td>
+<td colspan="2">1063</td>
 <td colspan="2">3888</td>
 <td colspan="2">2230</td>
 <td colspan="2">3377</td>
-<td>3890</td>
+<td colspan="2">3890</td>
 <td colspan="2">3883</td>
-<td colspan="2">23270</td>
+<td>23270</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td>Всего</td>
-<td>22551</td>
-<td>2475</td>
+<td></td>
+<td>Жинағы</td>
+<td colspan="2">22551</td>
+<td colspan="2">2475</td>
 <td colspan="2">7207</td>
 <td colspan="2">3179</td>
 <td colspan="2">4212</td>
-<td>9958</td>
+<td colspan="2">9958</td>
 <td colspan="2">8563</td>
-<td colspan="2">58145</td>
+<td>58145</td>
 </tr>
 </table>
 
-> *Приложение 7*  
-> *к решению районного маслихата*  
-> *от «23» декабря 2015 г. №291-V*
+> *Аудандық маслихаттың*  
+> *2015 жылғы 23 желтоқсандағы*  
+> *№291-V шешіміне 7 қосымша*
 
-# Перенос кассовых расходов учреждении
+# Мекемелердің өзгертілетін кассалық шығындары
 
-> *Сноска. Решение дополнено приложением 7 в соответствии с решением Исатайского районного маслихата Атырауской области от 04.11.2016 № 53-VI (вводится в действие с 01.01. 2016).*
+> *Ескерту. Шешім 7-қосымшамен толықтырылды - Атырау облысы Исатай аудандық мәслихатының 04.11.2016 № 53-VI шешімімен (01.01.2016 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
-<td rowspan="5">№ п/п</td>
-<td colspan="5">Старая редакция</td>
-<td rowspan="5">План</td>
-<td rowspan="5">Кассовые расходы</td>
-<td colspan="3">Новая редакция</td>
+<td rowspan="5">Р/с №</td>
+<td rowspan="5">М/м коды</td>
+<td colspan="7">Бұрынғы нұсқа</td>
+<td colspan="3">Жаңа нұсқа</td>
 </tr>
 <tr>
-<td>Код ГУ</td>
-<td colspan="4">Администратор бюджетных программ</td>
-<td rowspan="4">
-
-специфика
-</td>
-<td rowspan="4">План</td>
-<td rowspan="4">Кассовые расходы</td>
+<td colspan="5">Бюджеттік бағдарлама әкімгері</td>
+<td rowspan="4">Жоспар</td>
+<td rowspan="4">Кассалық шығын</td>
+<td rowspan="4">ерекшелік</td>
+<td rowspan="4">Жоспар</td>
+<td rowspan="4">Кассалық шығын</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">программа</td>
+<td colspan="3">бюджеттік бағдарлама</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">подпрограмма</td>
+<td colspan="3">кіші бағдарлама</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>специфика</td>
+<td colspan="2"></td>
+<td>ерекшелік</td>
 </tr>
 <tr>
 <td>1</td>
 <td>1121253</td>
 <td>112</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>129000,00</td>
 <td>128446,00</td>
@@ -398,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1121253</td>
 <td>112</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>11000,00</td>
 <td>10275,00</td>
@@ -411,7 +456,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1121253</td>
 <td>112</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>4000,00</td>
 <td>3352,00</td>
@@ -421,10 +466,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>144000,00</td>
 <td>142073,00</td>
@@ -437,7 +482,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1121253</td>
 <td>112</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>242000,00</td>
 <td>241570,00</td>
@@ -450,7 +495,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1121253</td>
 <td>112</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>19000,00</td>
 <td>18239,00</td>
@@ -463,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1121253</td>
 <td>112</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>6000,00</td>
 <td>5206,00</td>
@@ -473,10 +518,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>267000,00</td>
 <td>265015,00</td>
@@ -489,7 +534,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1221254</td>
 <td>122</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>194000,00</td>
 <td>193250,00</td>
@@ -502,7 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1221254</td>
 <td>122</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>23000,00</td>
 <td>22121,00</td>
@@ -515,7 +560,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1221254</td>
 <td>122</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>11000,00</td>
 <td>10382,00</td>
@@ -528,7 +573,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1221254</td>
 <td>122</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>9000,00</td>
 <td>8646,00</td>
@@ -538,10 +583,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>237000,00</td>
 <td>234399,00</td>
@@ -554,7 +599,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1221254</td>
 <td>122</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>468000,00</td>
 <td>467713,00</td>
@@ -567,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1221254</td>
 <td>122</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>78000,00</td>
 <td>77867,00</td>
@@ -580,7 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1221254</td>
 <td>122</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>26000,00</td>
 <td>25257,00</td>
@@ -593,7 +638,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1221254</td>
 <td>122</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>10000,00</td>
 <td>9533,00</td>
@@ -603,10 +648,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>582000,00</td>
 <td>580370,00</td>
@@ -619,7 +664,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4621255</td>
 <td>462</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>171000,00</td>
 <td>170526,00</td>
@@ -632,7 +677,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4621255</td>
 <td>462</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>19000,00</td>
 <td>18810,00</td>
@@ -642,10 +687,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>190000,00</td>
 <td>189336,00</td>
@@ -658,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4621255</td>
 <td>462</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>281000,00</td>
 <td>280320,00</td>
@@ -671,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4621255</td>
 <td>462</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>31000,00</td>
 <td>30910,00</td>
@@ -681,10 +726,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>312000,00</td>
 <td>311230,00</td>
@@ -697,7 +742,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231281</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>45000,00</td>
 <td>44766,00</td>
@@ -710,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231281</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>8000,00</td>
 <td>7461,00</td>
@@ -723,7 +768,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231281</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>3000,00</td>
 <td>2418,00</td>
@@ -736,7 +781,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231281</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>3000,00</td>
 <td>2016,00</td>
@@ -746,10 +791,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>59000,00</td>
 <td>56661,00</td>
@@ -762,7 +807,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231281</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>448000,00</td>
 <td>447672,00</td>
@@ -775,7 +820,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231281</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>75000,00</td>
 <td>74612,00</td>
@@ -788,7 +833,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231281</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>25000,00</td>
 <td>24156,00</td>
@@ -801,7 +846,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231281</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>21000,00</td>
 <td>20148,00</td>
@@ -811,10 +856,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>569000,00</td>
 <td>566588,00</td>
@@ -827,7 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>8011264</td>
 <td>801</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>432000,00</td>
 <td>431226,00</td>
@@ -840,7 +885,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>8011264</td>
 <td>801</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>19000,00</td>
 <td>18227,00</td>
@@ -853,7 +898,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>8011264</td>
 <td>801</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>23000,00</td>
 <td>22306,00</td>
@@ -866,7 +911,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>8011264</td>
 <td>801</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>19000,00</td>
 <td>18580,00</td>
@@ -876,10 +921,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>493000,00</td>
 <td>490339,00</td>
@@ -892,7 +937,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>8011264</td>
 <td>801</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>924000,00</td>
 <td>923579,00</td>
@@ -905,7 +950,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>8011264</td>
 <td>801</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>45000,00</td>
 <td>44243,00</td>
@@ -918,7 +963,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>8011264</td>
 <td>801</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>48000,00</td>
 <td>47780,00</td>
@@ -931,7 +976,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>8011264</td>
 <td>801</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>40000,00</td>
 <td>39816,00</td>
@@ -941,10 +986,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1057000,00</td>
 <td>1055418,00</td>
@@ -957,7 +1002,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231278</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>136000,00</td>
 <td>135642,00</td>
@@ -970,7 +1015,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231278</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>16000,00</td>
 <td>16000,00</td>
@@ -983,7 +1028,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231278</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>8000,00</td>
 <td>7320,00</td>
@@ -996,7 +1041,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231278</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>7000,00</td>
 <td>6100,00</td>
@@ -1006,10 +1051,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>167000,00</td>
 <td>165062,00</td>
@@ -1022,7 +1067,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231278</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>265000,00</td>
 <td>264589,00</td>
@@ -1035,7 +1080,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231278</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>39000,00</td>
 <td>39000,00</td>
@@ -1048,7 +1093,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231278</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>15000,00</td>
 <td>14187,00</td>
@@ -1061,7 +1106,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231278</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>12000,00</td>
 <td>11196,00</td>
@@ -1071,10 +1116,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>331000,00</td>
 <td>328972,00</td>
@@ -1087,7 +1132,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>302000,00</td>
 <td>301928,00</td>
@@ -1100,7 +1145,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>44000,00</td>
 <td>44000,00</td>
@@ -1113,7 +1158,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>17000,00</td>
 <td>16302,00</td>
@@ -1126,7 +1171,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>14000,00</td>
 <td>13590,00</td>
@@ -1136,10 +1181,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>377000,00</td>
 <td>375820,00</td>
@@ -1152,7 +1197,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>327000,00</td>
 <td>326018,00</td>
@@ -1165,7 +1210,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>47000,00</td>
 <td>46720,00</td>
@@ -1178,7 +1223,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>18000,00</td>
 <td>17606,00</td>
@@ -1191,7 +1236,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>15000,00</td>
 <td>14669,00</td>
@@ -1204,7 +1249,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4551265</td>
 <td>455</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>161</td>
 <td>22000,00</td>
 <td>21210,00</td>
@@ -1214,10 +1259,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>429000,00</td>
 <td>426223,00</td>
@@ -1230,7 +1275,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4671252</td>
 <td>467</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>377000,00</td>
 <td>376811,00</td>
@@ -1243,7 +1288,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4671252</td>
 <td>467</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>21000,00</td>
 <td>20352,00</td>
@@ -1256,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4671252</td>
 <td>467</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>17000,00</td>
 <td>16963,00</td>
@@ -1266,10 +1311,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>415000,00</td>
 <td>414126,00</td>
@@ -1282,7 +1327,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4671252</td>
 <td>467</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>714000,00</td>
 <td>713898,00</td>
@@ -1295,7 +1340,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4671252</td>
 <td>467</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>39000,00</td>
 <td>38549,00</td>
@@ -1308,7 +1353,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4671252</td>
 <td>467</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>33000,00</td>
 <td>32116,00</td>
@@ -1318,10 +1363,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>786000,00</td>
 <td>784563,00</td>
@@ -1334,7 +1379,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4651254</td>
 <td>465</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>228000,00</td>
 <td>227055,00</td>
@@ -1347,7 +1392,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4651254</td>
 <td>465</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>13000,00</td>
 <td>12278,00</td>
@@ -1360,7 +1405,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4651254</td>
 <td>465</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>11000,00</td>
 <td>10228,00</td>
@@ -1370,10 +1415,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>252000,00</td>
 <td>249561,00</td>
@@ -1386,7 +1431,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4651254</td>
 <td>465</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>443000,00</td>
 <td>442871,00</td>
@@ -1399,7 +1444,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4651254</td>
 <td>465</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>22000,00</td>
 <td>21927,00</td>
@@ -1412,7 +1457,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4651254</td>
 <td>465</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>19000,00</td>
 <td>18272,00</td>
@@ -1422,10 +1467,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>484000,00</td>
 <td>483070,00</td>
@@ -1438,7 +1483,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4631254</td>
 <td>463</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>279000,00</td>
 <td>278675,00</td>
@@ -1451,7 +1496,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4631254</td>
 <td>463</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>34000,00</td>
 <td>33818,00</td>
@@ -1464,7 +1509,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4631254</td>
 <td>463</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>25000,00</td>
 <td>24252,00</td>
@@ -1477,7 +1522,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4631254</td>
 <td>463</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>14000,00</td>
 <td>13272,00</td>
@@ -1487,10 +1532,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>352000,00</td>
 <td>350017,00</td>
@@ -1503,7 +1548,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4631254</td>
 <td>463</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>638000,00</td>
 <td>637607,00</td>
@@ -1516,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4631254</td>
 <td>463</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>84000,00</td>
 <td>83277,00</td>
@@ -1529,7 +1574,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4631254</td>
 <td>463</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>35000,00</td>
 <td>34617,00</td>
@@ -1542,7 +1587,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4631254</td>
 <td>463</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>29000,00</td>
 <td>28204,00</td>
@@ -1552,10 +1597,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>786000,00</td>
 <td>783705,00</td>
@@ -1568,7 +1613,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4591253</td>
 <td>459</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>221000,00</td>
 <td>220763,00</td>
@@ -1581,7 +1626,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4591253</td>
 <td>459</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>10000,00</td>
 <td>9874,00</td>
@@ -1594,7 +1639,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4591253</td>
 <td>459</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>10000,00</td>
 <td>9679,00</td>
@@ -1604,10 +1649,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>241000,00</td>
 <td>240316,00</td>
@@ -1620,7 +1665,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4591253</td>
 <td>459</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>435000,00</td>
 <td>434849,00</td>
@@ -1633,7 +1678,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4591253</td>
 <td>459</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>66000,00</td>
 <td>65037,00</td>
@@ -1646,7 +1691,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4591253</td>
 <td>459</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>20000,00</td>
 <td>19358,00</td>
@@ -1656,10 +1701,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>521000,00</td>
 <td>519244,00</td>
@@ -1672,7 +1717,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231280</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>199000,00</td>
 <td>198990,00</td>
@@ -1685,7 +1730,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231280</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>11000,00</td>
 <td>10746,00</td>
@@ -1698,7 +1743,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231280</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>9000,00</td>
 <td>8952,00</td>
@@ -1708,10 +1753,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>219000,00</td>
 <td>218688,00</td>
@@ -1724,7 +1769,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231280</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>437000,00</td>
 <td>436404,00</td>
@@ -1737,7 +1782,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231280</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>24000,00</td>
 <td>23568,00</td>
@@ -1750,7 +1795,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231280</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>20000,00</td>
 <td>19638,00</td>
@@ -1760,10 +1805,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>481000,00</td>
 <td>479610,00</td>
@@ -1776,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231275</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>404000,00</td>
 <td>403908,00</td>
@@ -1789,7 +1834,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231275</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>19000,00</td>
 <td>18358,00</td>
@@ -1802,7 +1847,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231275</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>16000,00</td>
 <td>15299,00</td>
@@ -1812,10 +1857,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>439000,00</td>
 <td>437565,00</td>
@@ -1828,7 +1873,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231275</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>779000,00</td>
 <td>778094,00</td>
@@ -1841,7 +1886,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231275</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>123000,00</td>
 <td>122110,00</td>
@@ -1854,7 +1899,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231275</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>46000,00</td>
 <td>45472,00</td>
@@ -1867,7 +1912,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231275</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>38000,00</td>
 <td>37892,00</td>
@@ -1877,10 +1922,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>986000,00</td>
 <td>983568,00</td>
@@ -1893,7 +1938,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4731255</td>
 <td>473</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>305000,00</td>
 <td>304341,00</td>
@@ -1906,7 +1951,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4731255</td>
 <td>473</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>19000,00</td>
 <td>18405,00</td>
@@ -1919,7 +1964,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4731255</td>
 <td>473</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>17000,00</td>
 <td>16443,00</td>
@@ -1932,7 +1977,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4731255</td>
 <td>473</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>14000,00</td>
 <td>13696,00</td>
@@ -1942,10 +1987,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>355000,00</td>
 <td>352885,00</td>
@@ -1958,7 +2003,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4731255</td>
 <td>473</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>789000,00</td>
 <td>788951,00</td>
@@ -1971,7 +2016,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4731255</td>
 <td>473</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>43000,00</td>
 <td>42650,00</td>
@@ -1984,7 +2029,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4731255</td>
 <td>473</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>43000,00</td>
 <td>42603,00</td>
@@ -1997,7 +2042,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4731255</td>
 <td>473</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>36000,00</td>
 <td>35503,00</td>
@@ -2007,10 +2052,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>911000,00</td>
 <td>909707,00</td>
@@ -2023,7 +2068,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4581257</td>
 <td>458</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>302000,00</td>
 <td>301034,00</td>
@@ -2036,7 +2081,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4581257</td>
 <td>458</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>38000,00</td>
 <td>37695,00</td>
@@ -2049,7 +2094,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4581257</td>
 <td>458</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>15000,00</td>
 <td>14887,00</td>
@@ -2062,7 +2107,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4581257</td>
 <td>458</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>14000,00</td>
 <td>13891,00</td>
@@ -2072,10 +2117,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>369000,00</td>
 <td>367507,00</td>
@@ -2088,7 +2133,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4581257</td>
 <td>458</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>758000,00</td>
 <td>757902,00</td>
@@ -2101,7 +2146,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4581257</td>
 <td>458</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>82000,00</td>
 <td>81583,00</td>
@@ -2114,7 +2159,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4581257</td>
 <td>458</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>44000,00</td>
 <td>43662,00</td>
@@ -2127,7 +2172,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4581257</td>
 <td>458</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>40000,00</td>
 <td>39039,00</td>
@@ -2137,10 +2182,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>924000,00</td>
 <td>922186,00</td>
@@ -2153,7 +2198,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4641424</td>
 <td>464</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>181000,00</td>
 <td>180314,00</td>
@@ -2166,7 +2211,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4641424</td>
 <td>464</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>20000,00</td>
 <td>19113,00</td>
@@ -2179,7 +2224,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4641424</td>
 <td>464</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>11000,00</td>
 <td>10928,00</td>
@@ -2192,7 +2237,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4641424</td>
 <td>464</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>9000,00</td>
 <td>8440,00</td>
@@ -2202,10 +2247,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>221000,00</td>
 <td>218795,00</td>
@@ -2218,7 +2263,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4641424</td>
 <td>464</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>319000,00</td>
 <td>318652,00</td>
@@ -2231,7 +2276,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4641424</td>
 <td>464</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>42000,00</td>
 <td>41942,00</td>
@@ -2244,7 +2289,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4641424</td>
 <td>464</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>21000,00</td>
 <td>20230,00</td>
@@ -2257,7 +2302,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4641424</td>
 <td>464</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>17000,00</td>
 <td>16857,00</td>
@@ -2267,10 +2312,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>399000,00</td>
 <td>397681,00</td>
@@ -2283,7 +2328,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231279</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>241000,00</td>
 <td>240474,00</td>
@@ -2296,7 +2341,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231279</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>16000,00</td>
 <td>15998,00</td>
@@ -2309,7 +2354,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231279</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>14000,00</td>
 <td>13898,00</td>
@@ -2319,10 +2364,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>271000,00</td>
 <td>270370,00</td>
@@ -2335,7 +2380,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231279</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>429000,00</td>
 <td>428534,00</td>
@@ -2348,7 +2393,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231279</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>112000,00</td>
 <td>111524,00</td>
@@ -2361,7 +2406,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231279</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>20000,00</td>
 <td>20000,00</td>
@@ -2371,10 +2416,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>561000,00</td>
 <td>560058,00</td>
@@ -2387,7 +2432,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231277</td>
 <td>123</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>13000,00</td>
 <td>12494,00</td>
@@ -2397,10 +2442,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>13000,00</td>
 <td>12494,00</td>
@@ -2413,7 +2458,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231277</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>138000,00</td>
 <td>137788,00</td>
@@ -2426,7 +2471,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>1231277</td>
 <td>123</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>14000,00</td>
 <td>13791,00</td>
@@ -2436,10 +2481,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>152000,00</td>
 <td>151579,00</td>
@@ -2452,7 +2497,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>344000,00</td>
 <td>343982,00</td>
@@ -2465,7 +2510,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>113</td>
 <td>56000,00</td>
 <td>55458,00</td>
@@ -2478,7 +2523,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>17000,00</td>
 <td>16851,00</td>
@@ -2491,7 +2536,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>20000,00</td>
 <td>19542,00</td>
@@ -2501,10 +2546,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>437000,00</td>
 <td>435833,00</td>
@@ -2517,7 +2562,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>821000,00</td>
 <td>820924,00</td>
@@ -2530,7 +2575,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>113</td>
 <td>122000,00</td>
 <td>121746,00</td>
@@ -2543,7 +2588,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>37000,00</td>
 <td>36548,00</td>
@@ -2556,7 +2601,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>35000,00</td>
 <td>34865,00</td>
@@ -2569,7 +2614,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4681254</td>
 <td>468</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>161</td>
 <td>115000,00</td>
 <td>115000,00</td>
@@ -2579,10 +2624,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1130000,00</td>
 <td>1129083,00</td>
@@ -2595,7 +2640,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4691256</td>
 <td>469</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>259000,00</td>
 <td>258978,00</td>
@@ -2608,7 +2653,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4691256</td>
 <td>469</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>16000,00</td>
 <td>15114,00</td>
@@ -2621,7 +2666,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4691256</td>
 <td>469</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>13000,00</td>
 <td>12588,00</td>
@@ -2631,10 +2676,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>288000,00</td>
 <td>286680,00</td>
@@ -2647,7 +2692,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4691256</td>
 <td>469</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>498000,00</td>
 <td>497994,00</td>
@@ -2660,7 +2705,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4691256</td>
 <td>469</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>27000,00</td>
 <td>26892,00</td>
@@ -2673,7 +2718,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4691256</td>
 <td>469</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>23000,00</td>
 <td>22416,00</td>
@@ -2683,10 +2728,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>548000,00</td>
 <td>547302,00</td>
@@ -2699,7 +2744,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4561255</td>
 <td>456</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>111</td>
 <td>161000,00</td>
 <td>160230,00</td>
@@ -2712,7 +2757,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4561255</td>
 <td>456</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>121</td>
 <td>9000,00</td>
 <td>8652,00</td>
@@ -2725,7 +2770,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4561255</td>
 <td>456</td>
 <td>001</td>
-<td>011</td>
+<td colspan="2">011</td>
 <td>122</td>
 <td>8000,00</td>
 <td>7212,00</td>
@@ -2735,10 +2780,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>178000,00</td>
 <td>176094,00</td>
@@ -2751,7 +2796,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4561255</td>
 <td>456</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>111</td>
 <td>271000,00</td>
 <td>270762,00</td>
@@ -2764,7 +2809,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4561255</td>
 <td>456</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>121</td>
 <td>15000,00</td>
 <td>14622,00</td>
@@ -2777,7 +2822,7 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>4561255</td>
 <td>456</td>
 <td>001</td>
-<td>015</td>
+<td colspan="2">015</td>
 <td>122</td>
 <td>13000,00</td>
 <td>12180,00</td>
@@ -2787,10 +2832,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 </tr>
 <tr>
 <td></td>
-<td>Итого:</td>
+<td>Барлығы</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>299000,00</td>
 <td>297564,00</td>
@@ -2799,11 +2844,10 @@ source: https://zan.gov.kz/client/#!/doc/97600/rus/14.12.2016
 <td>297564,00</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего:</td>
-<td></td>
+<td colspan="2">Жиынтығы:</td>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td>18232000,00</td>
 <td>18167357,00</td>
