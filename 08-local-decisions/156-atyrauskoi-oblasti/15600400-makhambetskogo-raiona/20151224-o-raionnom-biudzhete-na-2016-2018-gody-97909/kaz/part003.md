@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
+source: https://zan.gov.kz/client/#!/doc/97909/kaz/14.12.2016
 ---
 
 > *Махамбет аудандық мәслихаттың*  
@@ -2072,12 +2072,13 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 </tr>
 </table>
 
-> *Махамбет аудандық мәслихаттың 2015 жылғы 24 желтоқсандағы № 341*  
-> *шешіміне 4 қосымша*
+> *Махамбет аудандық мәслихаттың*  
+> *2015 жылғы 24 желтоқсандағы*  
+> *№ 341 шешіміне 4 қосымша*
 
 # Ауылдық округтер әкімдері аппараттарының бюджеттік бағдарламаларын қаржыландыру мөлшері
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Махамбет аудандық мәслихатының 04.11.2016 № 71 шешімімен (01.01.2016 бастап қолданысқа енгiзiледi).*
+> *Ескерту. 4-қосымша жаңа редакцияда - Махамбет аудандық мәслихатының 14.12.2016 № 79 шешімімен (01.01.2016 бастап қолданысқа енгiзiледi).*
 
 > *(мың теңге)*
 
@@ -2101,16 +2102,13 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 </tr>
 <tr>
 <td>001</td>
-<td colspan="2">
-Қаладағы аудан, аудандық маңызы бар қала, кент,ауыл
-ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер
-</td>
-<td>14544</td>
-<td colspan="2">17147</td>
-<td colspan="2">14243</td>
-<td colspan="2">18107</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент,ауыл ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>14696</td>
+<td colspan="2">17401</td>
+<td colspan="2">14775</td>
+<td colspan="2">19527</td>
 <td colspan="2">15655</td>
-<td>20515</td>
+<td>21057</td>
 </tr>
 <tr>
 <td>003</td>
@@ -2118,32 +2116,29 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 <td>38</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
-<td colspan="2">1978</td>
-<td colspan="2">4248</td>
-<td>2887</td>
+<td colspan="2">2099</td>
+<td colspan="2">4460</td>
+<td>2783</td>
 </tr>
 <tr>
 <td>004</td>
 <td colspan="2">Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>18038</td>
-<td colspan="2">32104</td>
-<td colspan="2">27106</td>
-<td colspan="2">27206</td>
-<td colspan="2">21106</td>
-<td>32051</td>
+<td>19006</td>
+<td colspan="2">33068</td>
+<td colspan="2">28502</td>
+<td colspan="2">29011</td>
+<td colspan="2">22099</td>
+<td>33871</td>
 </tr>
 <tr>
 <td>006</td>
-<td colspan="2">
-Жергілікті деңгейдегі мәдени
-демалыс жұмысын қолдау
-</td>
+<td colspan="2">Жергілікті деңгейдегі мәдени демалыс жұмысын қолдау</td>
 <td>8179</td>
-<td colspan="2">7356</td>
-<td colspan="2">16333</td>
-<td colspan="2">6005</td>
-<td colspan="2">9269</td>
-<td>11740</td>
+<td colspan="2">7609</td>
+<td colspan="2">17128</td>
+<td colspan="2">6335</td>
+<td colspan="2">9749</td>
+<td>12394</td>
 </tr>
 <tr>
 <td>007</td>
@@ -2161,7 +2156,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 <td>606</td>
 <td colspan="2">862</td>
 <td colspan="2">605</td>
-<td colspan="2">962</td>
+<td colspan="2">944</td>
 <td colspan="2">1040</td>
 <td>1306</td>
 </tr>
@@ -2191,7 +2186,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 <td>252</td>
 <td colspan="2">252</td>
 <td colspan="2">252</td>
-<td colspan="2">252</td>
+<td colspan="2">212</td>
 <td colspan="2">252</td>
 <td>252</td>
 </tr>
@@ -2239,31 +2234,31 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 <td>040</td>
 <td colspan="2">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>850</td>
-<td colspan="2">1820</td>
+<td colspan="2">1777</td>
 <td colspan="2">1013</td>
 <td colspan="2">2412</td>
-<td colspan="2">2244</td>
-<td>3262</td>
+<td colspan="2">1728</td>
+<td>2919</td>
 </tr>
 <tr>
 <td>041</td>
 <td colspan="2">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>4307</td>
+<td>4491</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">5391</td>
-<td>3095</td>
+<td colspan="2">6084</td>
+<td>3202</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">Жинағы</td>
-<td>50423</td>
-<td colspan="2">62687</td>
-<td colspan="2">61021</td>
-<td colspan="2">66765</td>
-<td colspan="2">60448</td>
-<td>126922</td>
+<td>51727</td>
+<td colspan="2">64115</td>
+<td colspan="2">63744</td>
+<td colspan="2">70383</td>
+<td colspan="2">62310</td>
+<td>129598</td>
 </tr>
 </table>
 
@@ -2287,38 +2282,38 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 Қаладағы аудан, аудандық маңызы бар қала, кент,ауыл,
 ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер
 </td>
-<td colspan="3">12822</td>
-<td colspan="2">14968</td>
-<td colspan="2">16077</td>
-<td colspan="2">34482</td>
-<td colspan="2">178560</td>
+<td colspan="3">13142</td>
+<td colspan="2">14908</td>
+<td colspan="2">16729</td>
+<td colspan="2">36002</td>
+<td colspan="2">183892</td>
 </tr>
 <tr>
 <td>003</td>
 <td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
 <td colspan="3">1158</td>
 <td colspan="2">1069</td>
-<td colspan="2">1088</td>
-<td colspan="2">15414</td>
-<td colspan="2">27880</td>
+<td colspan="2">1143</td>
+<td colspan="2">16218</td>
+<td colspan="2">28968</td>
 </tr>
 <tr>
 <td>004</td>
 <td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td colspan="3">28914</td>
-<td colspan="2">42940</td>
-<td colspan="2">22386</td>
-<td colspan="2">146460</td>
-<td colspan="2">398311</td>
+<td colspan="3">30409</td>
+<td colspan="2">45022</td>
+<td colspan="2">23415</td>
+<td colspan="2">153861</td>
+<td colspan="2">418264</td>
 </tr>
 <tr>
 <td>006</td>
 <td>Жергілікті деңгейдегі мәдени демалыс жұмысын қолдау</td>
-<td colspan="3">8394</td>
-<td colspan="2">10537</td>
-<td colspan="2">5742</td>
-<td colspan="2">31218</td>
-<td colspan="2">114773</td>
+<td colspan="3">8768</td>
+<td colspan="2">11135</td>
+<td colspan="2">6291</td>
+<td colspan="2">33089</td>
+<td colspan="2">120677</td>
 </tr>
 <tr>
 <td>007</td>
@@ -2336,7 +2331,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 <td colspan="2">669</td>
 <td colspan="2">698</td>
 <td colspan="2">20985</td>
-<td colspan="2">29056</td>
+<td colspan="2">29038</td>
 </tr>
 <tr>
 <td>009</td>
@@ -2363,7 +2358,7 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 <td colspan="2">252</td>
 <td colspan="2">252</td>
 <td colspan="2">964</td>
-<td colspan="2">3232</td>
+<td colspan="2">3192</td>
 </tr>
 <tr>
 <td>014</td>
@@ -2407,38 +2402,39 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 <tr>
 <td>040</td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td colspan="3">1091</td>
+<td colspan="3">1062</td>
 <td colspan="2">38</td>
 <td colspan="2">2577</td>
 <td colspan="2">9252</td>
-<td colspan="2">24559</td>
+<td colspan="2">23628</td>
 </tr>
 <tr>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2">4291</td>
-<td colspan="2">145096</td>
-<td colspan="2">162180</td>
+<td colspan="2">4489</td>
+<td colspan="2">157398</td>
+<td colspan="2">175664</td>
 </tr>
 <tr>
 <td></td>
 <td>Жинағы</td>
-<td colspan="3">55952</td>
-<td colspan="2">77013</td>
-<td colspan="2">53981</td>
-<td colspan="2">516269</td>
-<td colspan="2">1131481</td>
+<td colspan="3">58112</td>
+<td colspan="2">79633</td>
+<td colspan="2">56464</td>
+<td colspan="2">540167</td>
+<td colspan="2">1176253</td>
 </tr>
 </table>
 
-> *Махамбет аудандық мәслихаттың 2015 жылғы 24 желтоқсандағы кезекті 37-сессиясының № 341 шешіміне*  
-> *5 қосымша*
+> *Махамбет аудандық мәслихаттың*  
+> *2015 жылғы 24 желтоқсандағы*  
+> *№ 341 шешіміне 5 қосымша*
 
 # Ауылдық округтер бойынша жергілікті өзін-өзі басқару органдарына берілетін трансферттердің бөлінісі
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Махамбет аудандық мәслихатының 04.11.2016 № 71 шешімімен (01.01.2016 бастап қолданысқа енгiзiледi).*
+> *Ескерту. 5-қосымша жаңа редакцияда - Махамбет аудандық мәслихатының 14.12.2016 № 79 шешімімен (01.01.2016 бастап қолданысқа енгiзiледi).*
 
 <table>
 <tr>
@@ -2450,43 +2446,43 @@ source: https://zan.gov.kz/client/#!/doc/97909/kaz/04.11.2016
 </tr>
 <tr>
 <td>Ақтоғай ауылдық округі</td>
-<td>1360</td>
+<td>1654</td>
 </tr>
 <tr>
 <td>Алға ауылдық округі</td>
-<td>1940</td>
+<td>2292</td>
 </tr>
 <tr>
 <td>Ақжайық ауылдық округі</td>
-<td>835</td>
+<td>936</td>
 </tr>
 <tr>
 <td>Алмалы ауылдық округі</td>
-<td>22604</td>
+<td>23104</td>
 </tr>
 <tr>
 <td>Бақсай ауылдық округі</td>
-<td>6195</td>
+<td>6520</td>
 </tr>
 <tr>
 <td>Бейбарыс ауылдық округі</td>
-<td>4487</td>
+<td>4583</td>
 </tr>
 <tr>
 <td>Жалғансай ауылдық округі</td>
-<td>1853</td>
+<td>1997</td>
 </tr>
 <tr>
 <td>Есбол ауылдық округі</td>
-<td>2701</td>
+<td>2966</td>
 </tr>
 <tr>
 <td>Сарайшық ауылдық округі</td>
-<td>3828</td>
+<td>3948</td>
 </tr>
 <tr>
 <td>Махамбет ауылдық округі</td>
-<td>47389</td>
+<td>45192</td>
 </tr>
 <tr>
 <td>Барлығы</td>
