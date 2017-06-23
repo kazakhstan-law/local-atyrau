@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108652/kaz/17.03.2017
+source: https://zan.gov.kz/client/#!/doc/108652/kaz/23.06.2017
 ---
 
 > *Облыстық мәслихаттың VІІІ*  
