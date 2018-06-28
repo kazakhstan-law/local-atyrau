@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118054/kaz/30.03.2018
+source: https://zan.gov.kz/client/#!/doc/118054/kaz/28.06.2018
 ---
 
 > *Атырау қалалық Мәслихатының*  
