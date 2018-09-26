@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/118054/rus/28.06.2018
+source: https://zan.gov.kz/client/#!/doc/118054/rus/26.09.2018
 ---
 
 # О бюджете сельских округов относящихся к городу Атырау на 2018 – 2020 годы
