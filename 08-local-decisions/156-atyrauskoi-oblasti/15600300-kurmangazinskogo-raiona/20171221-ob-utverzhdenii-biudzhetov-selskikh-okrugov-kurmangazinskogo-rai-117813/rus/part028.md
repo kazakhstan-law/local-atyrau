@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
+source: https://zan.gov.kz/client/#!/doc/117813/rus/07.12.2018
 ---
 
 > *Приложение 28*  
@@ -9,295 +9,279 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 
 # Бюджет Дынгызылского сельского округа на 2018 год
 
-> *Сноска. Приложение 28 в редакции решения Курмангазинского районного маслихата Атырауской области от 08.10.2018 № 340-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 28 в редакции решения Курмангазинского районного маслихата Атырауской области от 07.12.2018 № 361-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2">Кате- гория</td>
+<td colspan="2">Класс</td>
+<td colspan="2">Под-класс</td>
 <td>Наименование</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>І. Доходы</td>
-<td>38 622</td>
+<td>38 728</td>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Налоговые поступления</td>
-<td>1 963</td>
+<td>1 721</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Подоходный налог</td>
 <td>356</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Индивидуальный подоходный налог</td>
 <td>356</td>
 </tr>
 <tr>
-<td></td>
-<td>03</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
 <td>Социальный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Социальный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>04</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">04</td>
+<td colspan="2"></td>
 <td>Налоги на собственность</td>
-<td>1607</td>
+<td>1365</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Налоги на имущество</td>
-<td>32</td>
+<td>27</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Земельный налог</td>
-<td>100</td>
+<td>70</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
 <td>Налог на транспортные средства</td>
-<td>1475</td>
+<td>1268</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
 <td>Единый земельный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>05</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">05</td>
+<td colspan="2"></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Акцизы</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>08</td>
-<td></td>
-<td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
+<td colspan="2"></td>
+<td colspan="2">08</td>
+<td colspan="2"></td>
+<td>Обязательные платежи, взимающиеся за совершение юридических значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Государственная пошлина</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Госпошлина</td>
 <td>0</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Неналоговые поступления</td>
-<td>243</td>
+<td>254</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Доходы от государственной собственности</td>
-<td>145</td>
+<td>156</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Поступления части чистого дохода государственных предприятий</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Дивиденды на государственные пакеты акций, находящиеся в государственной собственности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>145</td>
+<td>156</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7</td>
 <td>Вознаграждения по кредитам, выданным из государственного бюджета</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">9</td>
 <td>Прочие доходы от государственной собственности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>06</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">06</td>
+<td colspan="2"></td>
 <td>Прочие неналоговые поступления</td>
 <td>98</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Прочие неналоговые поступления</td>
 <td>98</td>
 </tr>
 <tr>
-<td>3</td>
-<td></td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Поступления от продажи основного капитала</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>03</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
 <td>Продажа земли и нематериальных активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Продажа земли</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Продажа нематериальных активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td>36 416</td>
+<td>36 753</td>
 </tr>
 <tr>
-<td></td>
-<td>02</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">02</td>
+<td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>36416</td>
+<td>36753</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>36 416</td>
+<td>36 753</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Целевые текущие трансферты</td>
-<td>11 316</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Текущие целевые трансферты</td>
+<td>11 653</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Целевые трансферты на развитие</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Субвенции</td>
 <td>25100</td>
 </tr>
@@ -305,32 +289,12 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td rowspan="4"></td>
-<td colspan="4">функциональная подгруппа</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
+<td>Функциональная группа</td>
+<td>функциональная подгруппа</td>
+<td>Администратор бюджетных программ</td>
+<td>Программа</td>
 <td>Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -338,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>ІІ. Расходы</td>
-<td>38 622</td>
+<td>38 728</td>
 </tr>
 <tr>
 <td>01</td>
@@ -346,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>22 136</td>
+<td>23 455</td>
 </tr>
 <tr>
 <td></td>
@@ -354,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>22 136</td>
+<td>23 455</td>
 </tr>
 <tr>
 <td></td>
@@ -362,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>22 136</td>
+<td>23 455</td>
 </tr>
 <tr>
 <td></td>
@@ -370,7 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>21 561</td>
+<td>23 225</td>
 </tr>
 <tr>
 <td></td>
@@ -378,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>575</td>
+<td>230</td>
 </tr>
 <tr>
 <td>06</td>
@@ -386,7 +350,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>1 858</td>
+<td>1 789</td>
 </tr>
 <tr>
 <td></td>
@@ -394,7 +358,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>1 858</td>
+<td>1 789</td>
 </tr>
 <tr>
 <td></td>
@@ -402,7 +366,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1 858</td>
+<td>1 789</td>
 </tr>
 <tr>
 <td></td>
@@ -410,7 +374,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td>1 858</td>
+<td>1 789</td>
 </tr>
 <tr>
 <td>07</td>
@@ -418,7 +382,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>240</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -450,7 +414,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>240</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -458,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>240</td>
+<td>290</td>
 </tr>
 <tr>
 <td></td>
@@ -466,7 +430,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>0</td>
+<td>50</td>
 </tr>
 <tr>
 <td></td>
@@ -490,7 +454,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>12 018</td>
+<td>10 824</td>
 </tr>
 <tr>
 <td></td>
@@ -498,7 +462,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>12 018</td>
+<td>10 824</td>
 </tr>
 <tr>
 <td></td>
@@ -506,7 +470,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>12 018</td>
+<td>10 824</td>
 </tr>
 <tr>
 <td></td>
@@ -514,7 +478,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>12 018</td>
+<td>10 824</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1962,295 +1926,279 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 
 # Бюджет Азгирского сельского округа на 2018 год
 
-> *Сноска. Приложение 31 в редакции решения Курмангазинского районного маслихата Атырауской области от 08.10.2018 № 340-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 31 в редакции решения Курмангазинского районного маслихата Атырауской области от 07.12.2018 № 361-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2">Кате- гория</td>
+<td colspan="2">Класс</td>
+<td colspan="2">Под-класс</td>
 <td>Наименование</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>І. Доходы</td>
-<td>50 534</td>
+<td>48 638</td>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Налоговые поступления</td>
-<td>5 082</td>
+<td>2 250</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Подоходный налог</td>
-<td>1398</td>
+<td>406</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>1398</td>
+<td>406</td>
 </tr>
 <tr>
-<td></td>
-<td>03</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
 <td>Социальный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Социальный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>04</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">04</td>
+<td colspan="2"></td>
 <td>Налоги на собственность</td>
-<td>3684</td>
+<td>1844</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Налоги на имущество</td>
-<td>24</td>
+<td>23</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Земельный налог</td>
-<td>100</td>
+<td>92</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
 <td>Налог на транспортные средства</td>
-<td>3560</td>
+<td>1729</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
 <td>Единый земельный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>05</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">05</td>
+<td colspan="2"></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Акцизы</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>08</td>
-<td></td>
-<td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
+<td colspan="2"></td>
+<td colspan="2">08</td>
+<td colspan="2"></td>
+<td>Обязательные платежи, взимающиеся за совершение юридических значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Государственная пошлина</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Госпошлина</td>
 <td>0</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Неналоговые поступления</td>
-<td>1440</td>
+<td>1652</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Доходы от государственной собственности</td>
-<td>0</td>
+<td>212</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Поступления части чистого дохода государственных предприятий</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Дивиденды на государственные пакеты акций, находящиеся в государственной собственности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>0</td>
+<td>212</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7</td>
 <td>Вознаграждения по кредитам, выданным из государственного бюджета</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">9</td>
 <td>Прочие доходы от государственной собственности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>06</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">06</td>
+<td colspan="2"></td>
 <td>Прочие неналоговые поступления</td>
 <td>1440</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Прочие неналоговые поступления</td>
 <td>1440</td>
 </tr>
 <tr>
-<td>3</td>
-<td></td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Поступления от продажи основного капитала</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>03</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
 <td>Продажа земли и нематериальных активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Продажа земли</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Продажа нематериальных активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td>44 012</td>
+<td>44 736</td>
 </tr>
 <tr>
-<td></td>
-<td>02</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">02</td>
+<td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>44012</td>
+<td>44736</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>44 012</td>
+<td>44 736</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Целевые текущие трансферты</td>
-<td>7 124</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Текущие целевые трансферты</td>
+<td>7 848</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Целевые трансферты на развитие</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Субвенции</td>
 <td>36888</td>
 </tr>
@@ -2258,32 +2206,12 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td rowspan="4"></td>
-<td colspan="4">функциональная подгруппа</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
+<td>Функциональная группа</td>
+<td>функциональная подгруппа</td>
+<td>Администратор бюджетных программ</td>
+<td>Программа</td>
 <td>Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -2291,7 +2219,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>ІІ. Расходы</td>
-<td>50 534</td>
+<td>48 638</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2299,7 +2227,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>25 806</td>
+<td>26 034</td>
 </tr>
 <tr>
 <td></td>
@@ -2307,7 +2235,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>25 806</td>
+<td>26 034</td>
 </tr>
 <tr>
 <td></td>
@@ -2315,7 +2243,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>25 806</td>
+<td>26 034</td>
 </tr>
 <tr>
 <td></td>
@@ -2323,7 +2251,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>24 482</td>
+<td>24 710</td>
 </tr>
 <tr>
 <td></td>
@@ -2347,7 +2275,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>2 118</td>
+<td>1 818</td>
 </tr>
 <tr>
 <td></td>
@@ -2355,7 +2283,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>2 118</td>
+<td>1 818</td>
 </tr>
 <tr>
 <td></td>
@@ -2363,7 +2291,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 118</td>
+<td>1 818</td>
 </tr>
 <tr>
 <td></td>
@@ -2371,7 +2299,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td>2 118</td>
+<td>1 818</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2379,7 +2307,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2 440</td>
+<td>1 525</td>
 </tr>
 <tr>
 <td></td>
@@ -2411,7 +2339,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2 440</td>
+<td>1 525</td>
 </tr>
 <tr>
 <td></td>
@@ -2419,7 +2347,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 440</td>
+<td>1 525</td>
 </tr>
 <tr>
 <td></td>
@@ -2427,7 +2355,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>1 000</td>
+<td>215</td>
 </tr>
 <tr>
 <td></td>
@@ -2443,7 +2371,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1 440</td>
+<td>1 310</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2451,7 +2379,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>17 628</td>
+<td>17 185</td>
 </tr>
 <tr>
 <td></td>
@@ -2459,7 +2387,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>17 628</td>
+<td>17 185</td>
 </tr>
 <tr>
 <td></td>
@@ -2467,7 +2395,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17 628</td>
+<td>17 185</td>
 </tr>
 <tr>
 <td></td>
@@ -2475,7 +2403,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>17 628</td>
+<td>17 185</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2515,7 +2443,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>2 542</td>
+<td>2 076</td>
 </tr>
 <tr>
 <td></td>
@@ -2523,7 +2451,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>2 542</td>
+<td>2 076</td>
 </tr>
 <tr>
 <td></td>
@@ -2531,7 +2459,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 542</td>
+<td>2 076</td>
 </tr>
 <tr>
 <td></td>
@@ -2539,7 +2467,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>2 542</td>
+<td>2 076</td>
 </tr>
 <tr>
 <td></td>
@@ -3923,295 +3851,279 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 
 # Бюджет Суюндукского сельского округа на 2018 год
 
-> *Сноска. Приложение 34 в редакции решения Курмангазинского районного маслихата Атырауской области от 08.10.2018 № 340-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 34 в редакции решения Курмангазинского районного маслихата Атырауской области от 07.12.2018 № 361-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
+<td colspan="2">Кате- гория</td>
+<td colspan="2">Класс</td>
+<td colspan="2">Под-класс</td>
 <td>Наименование</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>І. Доходы</td>
-<td>66 838</td>
+<td>64 890</td>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Налоговые поступления</td>
-<td>4 499</td>
+<td>3 113</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Подоходный налог</td>
-<td>638</td>
+<td>617</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>638</td>
+<td>617</td>
 </tr>
 <tr>
-<td></td>
-<td>03</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
 <td>Социальный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Социальный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>04</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">04</td>
+<td colspan="2"></td>
 <td>Налоги на собственность</td>
-<td>3861</td>
+<td>2496</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Налоги на имущество</td>
-<td>18</td>
+<td>23</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Земельный налог</td>
 <td>133</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
 <td>Налог на транспортные средства</td>
-<td>3710</td>
+<td>2340</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
 <td>Единый земельный налог</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>05</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">05</td>
+<td colspan="2"></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Акцизы</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>08</td>
-<td></td>
-<td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
+<td colspan="2"></td>
+<td colspan="2">08</td>
+<td colspan="2"></td>
+<td>Обязательные платежи, взимающиеся за совершение юридических значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Государственная пошлина</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Госпошлина</td>
 <td>0</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Неналоговые поступления</td>
-<td>1364</td>
+<td>1324</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Доходы от государственной собственности</td>
-<td>574</td>
+<td>534</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Поступления части чистого дохода государственных предприятий</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Дивиденды на государственные пакеты акций, находящиеся в государственной собственности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>574</td>
+<td>534</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7</td>
 <td>Вознаграждения по кредитам, выданным из государственного бюджета</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">9</td>
 <td>Прочие доходы от государственной собственности</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>06</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">06</td>
+<td colspan="2"></td>
 <td>Прочие неналоговые поступления</td>
 <td>790</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Прочие неналоговые поступления</td>
 <td>790</td>
 </tr>
 <tr>
-<td>3</td>
-<td></td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Поступления от продажи основного капитала</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>03</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
 <td>Продажа земли и нематериальных активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Продажа земли</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Продажа нематериальных активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Поступления трансфертов</td>
-<td>60 975</td>
+<td>60 453</td>
 </tr>
 <tr>
-<td></td>
-<td>02</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">02</td>
+<td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>60975</td>
+<td>60453</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>60 975</td>
+<td>60 453</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Целевые текущие трансферты</td>
-<td>12 192</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Текущие целевые трансферты</td>
+<td>11 670</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Целевые трансферты на развитие</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Субвенции</td>
 <td>48783</td>
 </tr>
@@ -4219,32 +4131,12 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td rowspan="4"></td>
-<td colspan="4">функциональная подгруппа</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
+<td>Функциональная группа</td>
+<td>функциональная подгруппа</td>
+<td>Администратор бюджетных программ</td>
+<td>Программа</td>
 <td>Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -4252,7 +4144,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>ІІ. Расходы</td>
-<td>66 838</td>
+<td>64 890</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4260,7 +4152,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>30 172</td>
+<td>31 162</td>
 </tr>
 <tr>
 <td></td>
@@ -4268,7 +4160,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>30 172</td>
+<td>31 162</td>
 </tr>
 <tr>
 <td></td>
@@ -4276,7 +4168,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>30 172</td>
+<td>31 162</td>
 </tr>
 <tr>
 <td></td>
@@ -4284,7 +4176,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>26 752</td>
+<td>27 742</td>
 </tr>
 <tr>
 <td></td>
@@ -4300,7 +4192,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>2 941</td>
+<td>1 077</td>
 </tr>
 <tr>
 <td></td>
@@ -4308,7 +4200,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Социальная помощь</td>
-<td>2 941</td>
+<td>1 077</td>
 </tr>
 <tr>
 <td></td>
@@ -4316,7 +4208,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2 941</td>
+<td>1 077</td>
 </tr>
 <tr>
 <td></td>
@@ -4324,7 +4216,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>003</td>
 <td>Оказание социальной помощи нуждающимся гражданам на дому</td>
-<td>2 941</td>
+<td>1 077</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4404,7 +4296,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>30 342</td>
+<td>29 820</td>
 </tr>
 <tr>
 <td></td>
@@ -4412,7 +4304,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>30 342</td>
+<td>29 820</td>
 </tr>
 <tr>
 <td></td>
@@ -4420,7 +4312,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>30 342</td>
+<td>29 820</td>
 </tr>
 <tr>
 <td></td>
@@ -4428,7 +4320,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>30 342</td>
+<td>29 820</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4468,7 +4360,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>3 003</td>
+<td>2 451</td>
 </tr>
 <tr>
 <td></td>
@@ -4476,7 +4368,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>3 003</td>
+<td>2 451</td>
 </tr>
 <tr>
 <td></td>
@@ -4484,7 +4376,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3 003</td>
+<td>2 451</td>
 </tr>
 <tr>
 <td></td>
@@ -4492,7 +4384,7 @@ source: https://zan.gov.kz/client/#!/doc/117813/rus/08.10.2018
 <td></td>
 <td>040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>3 003</td>
+<td>2 451</td>
 </tr>
 <tr>
 <td></td>
