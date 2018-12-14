@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117312/kaz/14.11.2018
+source: https://zan.gov.kz/client/#!/doc/117312/kaz/14.12.2018
 ---
 
 > *Облыстық мәслихаттың ХІХ*  
