@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
+source: https://zan.gov.kz/client/#!/doc/128346/rus/24.10.2019
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 
 ## Бюджет Миялинского сельского округа на 2019 год
 
-> *Сноска. Приложение 1 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 16.07.2019 № XXXІХ-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 1 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 24.10.2019 № XLIII-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -43,8 +43,8 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="5">I. Доходы</td>
-<td>315 482</td>
+<td colspan="5">І. Доходы</td>
+<td>305 022</td>
 </tr>
 <tr>
 <td>1</td>
@@ -121,21 +121,21 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>292 735</td>
+<td>282 275</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>292 735</td>
+<td>282 275</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>292 735</td>
+<td>282 275</td>
 </tr>
 <tr>
 <td colspan="12">Функциональная группа</td>
@@ -177,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>316 890</td>
+<td>306 430</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>46 044</td>
+<td>47 105</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>46 044</td>
+<td>47 105</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>46 044</td>
+<td>47 105</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -209,7 +209,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>46 044</td>
+<td>47 105</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -217,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>197 940</td>
+<td>199 396</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -225,7 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>197 940</td>
+<td>199 396</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -233,7 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>197 940</td>
+<td>199 396</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -241,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>197 940</td>
+<td>199 396</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -249,31 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>67 370</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">2</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td>Коммунальное хозяйство</td>
-<td>1 000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">124</td>
-<td colspan="2"></td>
-<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1 000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">014</td>
-<td>Организация водоснабжения населенных пунктов</td>
-<td>1 000</td>
+<td>54 263</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -281,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>66 370</td>
+<td>54 263</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -289,7 +265,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>66 370</td>
+<td>54 263</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -305,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>36 300</td>
+<td>24 193</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -321,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>5 536</td>
+<td>5 666</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -329,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>5 536</td>
+<td>5 666</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -337,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 536</td>
+<td>5 666</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -345,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>5 536</td>
+<td>5 666</td>
 </tr>
 <tr>
 <td colspan="12">Категория</td>
@@ -1063,11 +1039,11 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 > *Приложение 4*  
 > *к решению ХХХІ сессии*  
 > *районного маслихата*  
-> *от 29 декабря 2018 года № ХХХІ-2*
+> *от 29 декабря 2018 года № ХХХІ -2*
 
 ## Бюджет Уильского сельского округа на 2019 год
 
-> *Сноска. Приложение 4 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 16.07.2019 № XXXІХ-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 4 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 24.10.2019 № XLIII-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -1100,29 +1076,29 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="5">I. Доходы</td>
-<td>112 464</td>
+<td colspan="5">І. Доходы</td>
+<td>118 942</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Налоговые поступления</td>
-<td>2 309</td>
+<td>2 284</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="3"></td>
 <td colspan="5">Подоходный налог</td>
-<td>500</td>
+<td>475</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">2</td>
 <td colspan="5">Индивидуальный подоходный налог</td>
-<td>500</td>
+<td>475</td>
 </tr>
 <tr>
 <td></td>
@@ -1153,25 +1129,46 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td>1 621</td>
 </tr>
 <tr>
+<td>2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="5">Неналоговые поступления</td>
+<td>25</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td colspan="5">Доходы от государственной собственности</td>
+<td>25</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="3">5</td>
+<td colspan="5">Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td>25</td>
+</tr>
+<tr>
 <td>4</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>110 155</td>
+<td>116 633</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>110 155</td>
+<td>116 633</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>110 155</td>
+<td>116 633</td>
 </tr>
 <tr>
 <td colspan="12">Функциональная группа</td>
@@ -1213,7 +1210,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>113 239</td>
+<td>119 717</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1221,7 +1218,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>31 468</td>
+<td>31 770</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1229,7 +1226,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>31 468</td>
+<td>31 770</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1237,7 +1234,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31 468</td>
+<td>31 770</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1245,7 +1242,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>31 468</td>
+<td>31 770</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -1253,7 +1250,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>37 669</td>
+<td>37 924</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1261,7 +1258,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>36 943</td>
+<td>37 346</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1269,7 +1266,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36 943</td>
+<td>37 346</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1277,7 +1274,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>36 943</td>
+<td>37 346</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1285,7 +1282,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>726</td>
+<td>578</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1293,7 +1290,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>726</td>
+<td>578</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1301,7 +1298,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">005</td>
 <td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td>726</td>
+<td>578</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1309,7 +1306,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>3 795</td>
+<td>5 983</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1317,7 +1314,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>3 795</td>
+<td>5 983</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1325,7 +1322,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3 795</td>
+<td>5 983</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1333,7 +1330,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>1 600</td>
+<td>3 488</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1341,7 +1338,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>1 300</td>
+<td>1 600</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1357,7 +1354,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>38 101</td>
+<td>41 834</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1365,7 +1362,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Деятельность в области культуры</td>
-<td>38 101</td>
+<td>41 834</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1373,7 +1370,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>38 101</td>
+<td>41 834</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1381,7 +1378,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>38 101</td>
+<td>41 834</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
@@ -2201,11 +2198,11 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 > *Приложение 7*  
 > *к решению ХХХІ сессии*  
 > *районного маслихата*  
-> *от 29 декабря 2018 года № ХХХІ-2*
+> *от 29 декабря 2018 года № ХХХІ -2*
 
 ## Бюджет Тасшагильского сельского округа на 2019 год
 
-> *Сноска. Приложение 7 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 16.07.2019 № XXXІХ-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 7 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 24.10.2019 № XLIII-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -2239,7 +2236,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">I. Доходы</td>
-<td>86 033</td>
+<td>88 857</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2295,21 +2292,21 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>83 886</td>
+<td>86 710</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>83 886</td>
+<td>86 710</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>83 886</td>
+<td>86 710</td>
 </tr>
 <tr>
 <td colspan="12">Функциональная группа</td>
@@ -2351,7 +2348,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>86 685</td>
+<td>89 509</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -2359,7 +2356,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>33 692</td>
+<td>33 686</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2367,7 +2364,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>33 692</td>
+<td>33 686</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2375,7 +2372,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>33 692</td>
+<td>33 686</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2383,7 +2380,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>33 692</td>
+<td>33 686</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -2391,7 +2388,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>34 814</td>
+<td>36 704</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2399,7 +2396,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>34 814</td>
+<td>36 704</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2407,7 +2404,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>34 814</td>
+<td>36 704</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2415,7 +2412,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>34 814</td>
+<td>36 704</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -2423,7 +2420,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>8 056</td>
+<td>8 996</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2431,7 +2428,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>8 056</td>
+<td>8 996</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2439,7 +2436,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8 056</td>
+<td>8 996</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2455,7 +2452,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>914</td>
+<td>1 854</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3267,11 +3264,11 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 > *Приложение 10*  
 > *к решению ХХХІ сессии*  
 > *районного маслихата*  
-> *от 29 декабря 2018 года № ХХХІ-2*
+> *от 29 декабря 2018 года № ХХХІ -2*
 
 ## Бюджет Сагизского сельского округа на 2019 год
 
-> *Сноска. Приложение 10 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 16.07.2019 № XXXІХ-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 10 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 24.10.2019 № XLIII-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -3305,7 +3302,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">I. Доходы</td>
-<td>249 398</td>
+<td>262 433</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3382,21 +3379,21 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>232 098</td>
+<td>245 133</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>232 098</td>
+<td>245 133</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>232 098</td>
+<td>245 133</td>
 </tr>
 <tr>
 <td colspan="12">Функциональная группа</td>
@@ -3438,7 +3435,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>252 166</td>
+<td>265 201</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -3446,7 +3443,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>39 046</td>
+<td>37 591</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3454,7 +3451,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>39 046</td>
+<td>37 591</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3462,7 +3459,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>39 046</td>
+<td>37 591</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3470,7 +3467,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>39 046</td>
+<td>37 591</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -3478,7 +3475,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>147 020</td>
+<td>147 098</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3486,7 +3483,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>147 020</td>
+<td>147 098</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3494,7 +3491,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>147 020</td>
+<td>147 098</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3502,7 +3499,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>147 020</td>
+<td>147 098</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
@@ -3542,7 +3539,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>8 700</td>
+<td>15 225</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3550,7 +3547,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>8 700</td>
+<td>15 225</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3558,7 +3555,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8 700</td>
+<td>15 225</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3566,7 +3563,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>2 200</td>
+<td>5 200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3574,7 +3571,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>5 000</td>
+<td>8 525</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3590,7 +3587,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>42 649</td>
+<td>52 849</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3598,7 +3595,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Деятельность в области культуры</td>
-<td>42 649</td>
+<td>52 849</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3606,7 +3603,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>42 649</td>
+<td>52 849</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3614,7 +3611,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>42 649</td>
+<td>52 849</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -3622,7 +3619,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td>6 660</td>
+<td>6 160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3630,7 +3627,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td>6 660</td>
+<td>6 160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3638,7 +3635,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 660</td>
+<td>6 160</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3646,7 +3643,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">012</td>
 <td>Строительство и реконструкция автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>6 660</td>
+<td>6 160</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
@@ -3654,7 +3651,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>6 936</td>
+<td>5 123</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3662,7 +3659,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>6 936</td>
+<td>5 123</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3670,7 +3667,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 936</td>
+<td>5 123</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3678,7 +3675,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td>6 936</td>
+<td>5 123</td>
 </tr>
 <tr>
 <td colspan="12">Категория</td>
@@ -4460,11 +4457,11 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 > *Приложение 13*  
 > *к решению ХХХІ сессии*  
 > *районного маслихата*  
-> *от 29 декабря 2018 года № ХХХІ-2*
+> *от 29 декабря 2018 года № ХХХІ -2*
 
 ## Бюджет Мукурского сельского округа на 2019 год
 
-> *Сноска. Приложение 13 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 16.07.2019 № XXXІХ-1 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 13 - в редакции решения Кызылкогинского районного маслихата Атырауской области от 24.10.2019 № XLIII-1 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -4497,8 +4494,8 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="5">I. Доходы</td>
-<td>98 552</td>
+<td colspan="5">І. Доходы</td>
+<td>114 687</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4575,21 +4572,21 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>88 512</td>
+<td>104 647</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="3"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>88 512</td>
+<td>104 647</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">3</td>
 <td colspan="5">Трансферты из районного (города областного значения) бюджета</td>
-<td>88 512</td>
+<td>104 647</td>
 </tr>
 <tr>
 <td colspan="12">Функциональная группа</td>
@@ -4631,7 +4628,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>98 970</td>
+<td>115 105</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4639,7 +4636,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>34 812</td>
+<td>35 587</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4647,7 +4644,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>34 812</td>
+<td>35 587</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4655,7 +4652,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>34 812</td>
+<td>35 587</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4663,7 +4660,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>34 812</td>
+<td>35 587</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
@@ -4671,7 +4668,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>38 311</td>
+<td>40 596</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4679,7 +4676,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>38 311</td>
+<td>40 596</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4687,7 +4684,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>38 311</td>
+<td>40 596</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4695,7 +4692,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">004</td>
 <td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
-<td>38 311</td>
+<td>40 596</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -4703,7 +4700,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5 097</td>
+<td>8 172</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4711,7 +4708,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>5 097</td>
+<td>8 172</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4719,7 +4716,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 097</td>
+<td>8 172</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4727,7 +4724,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>3 230</td>
+<td>4 630</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4735,7 +4732,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>1 000</td>
+<td>2 675</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4751,7 +4748,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>16 231</td>
+<td>26 231</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4759,7 +4756,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td>Деятельность в области культуры</td>
-<td>16 231</td>
+<td>26 231</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4767,7 +4764,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>16 231</td>
+<td>26 231</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4775,7 +4772,7 @@ source: https://zan.gov.kz/client/#!/doc/128346/rus/16.07.2019
 <td colspan="4"></td>
 <td colspan="2">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>16 231</td>
+<td>26 231</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
