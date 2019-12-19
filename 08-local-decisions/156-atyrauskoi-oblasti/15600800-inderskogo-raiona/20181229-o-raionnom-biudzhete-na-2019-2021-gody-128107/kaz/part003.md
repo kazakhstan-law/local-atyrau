@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128107/kaz/31.10.2019
+source: https://zan.gov.kz/client/#!/doc/128107/kaz/19.12.2019
 ---
 
 > *Аудандық мәслихаттың 2018 жылғы*  
