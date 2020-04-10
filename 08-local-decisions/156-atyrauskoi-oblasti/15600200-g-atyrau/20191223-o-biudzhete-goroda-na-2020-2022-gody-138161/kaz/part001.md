@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138161/kaz/23.12.2019
+source: https://zan.gov.kz/client/#!/doc/138161/kaz/10.04.2020
 ---
 
 > *Атырау қаласының Мәслихатының*  
