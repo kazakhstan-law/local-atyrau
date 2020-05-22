@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138087/kaz/30.03.2020
+source: https://zan.gov.kz/client/#!/doc/138087/kaz/22.05.2020
 ---
 
 > *Атырау облыстық мәслихаттың*  
