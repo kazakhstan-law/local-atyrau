@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138086/kaz/09.04.2020
+source: https://zan.gov.kz/client/#!/doc/138086/kaz/05.06.2020
 ---
 
 > *Исатай аудандық мәслихаттың*  
