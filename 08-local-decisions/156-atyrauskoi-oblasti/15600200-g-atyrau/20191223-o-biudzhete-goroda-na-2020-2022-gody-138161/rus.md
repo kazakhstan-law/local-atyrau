@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/138161/rus/29.06.2020
+source: https://zan.gov.kz/client/#!/doc/138161/rus/21.08.2020
 ---
 
 # О бюджете города на 2020-2022 годы
@@ -240,3 +240,4 @@ source: https://zan.gov.kz/client/#!/doc/138161/rus/29.06.2020
 | Часть | Название |
 |---|---|
 | [`part001`](rus/part001.md) | Бюджет города на 2020 год |
+| [`part003`](rus/part003.md) | Бюджет города на 2022 год |
