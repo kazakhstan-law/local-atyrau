@@ -1,20 +1,20 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
+source: https://zan.gov.kz/client/#!/doc/151004/kaz/13.08.2021
 ---
 
-> *Индер аудандық мәслихатының*  
+> *Аудандық мәслихаттың*  
 > *2020 жылғы 29 желтоқсандағы*  
-> *№ 454-VІ шешіміне 1 қосымша*
+> *№ 454-VI шешiмiне 1-қосымша*
 
 ## Индер ауданы Жарсуат ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі); жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 13.08.2021 № 41-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -32,18 +32,18 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>І. Түсімдер</td>
-<td>87 162</td>
+<td>115 830</td>
 </tr>
 <tr>
 <td>1</td>
@@ -99,21 +99,21 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>82 352</td>
+<td>111 020</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>82 352</td>
+<td>111 020</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>82 352</td>
+<td>111 020</td>
 </tr>
 </table>
 
@@ -145,12 +145,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -158,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>88 887</td>
+<td>117 555</td>
 </tr>
 <tr>
 <td>1</td>
@@ -238,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>3 118</td>
+<td>5 070</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -246,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>3 118</td>
+<td>5 070</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -254,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3 118</td>
+<td>5 070</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -262,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>3 118</td>
+<td>5 070</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -270,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй- коммуналдық шаруашылық</td>
-<td>4 382</td>
+<td>5 282</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -278,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>4 382</td>
+<td>5 282</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -286,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>4 382</td>
+<td>5 282</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -294,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>2 782</td>
+<td>3 682</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -318,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңiстiк</td>
-<td>30 526</td>
+<td>56 342</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -326,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>30 526</td>
+<td>56 342</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -334,7 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>30 526</td>
+<td>56 342</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -342,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td>30 526</td>
+<td>56 342</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -438,12 +438,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -490,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -508,11 +508,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -540,7 +540,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -558,24 +558,24 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
-<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>Бюджет қаражатының қолданылатын қалдықтары</td>
 <td>1 725</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td>Бюджет қаражаты қалдықтары</td>
+<td>Бюджет қаражатының қалдықтары</td>
 <td>1 725</td>
 </tr>
 <tr>
@@ -590,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -608,11 +608,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -1351,18 +1351,18 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 </tr>
 </table>
 
-> *Индер аудандық мәслихаттың*  
+> *Аудандық мәслихаттың*  
 > *2020 жылғы 29 желтоқсандағы*  
 > *№ 454-VI шешiмiне 4-қосымша*
 
 ## Индер ауданы Өрлік ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі); жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 13.08.2021 № 41-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1380,18 +1380,18 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>І. Түсімдер</td>
-<td>259 786</td>
+<td>279 524</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1447,21 +1447,21 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>253 811</td>
+<td>273 549</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>253 811</td>
+<td>273 549</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>253 811</td>
+<td>273 549</td>
 </tr>
 </table>
 
@@ -1493,12 +1493,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1506,7 +1506,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>261 191</td>
+<td>280 929</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1586,7 +1586,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>3 817</td>
+<td>5 967</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1594,7 +1594,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>3 817</td>
+<td>5 967</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1602,7 +1602,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3 817</td>
+<td>5 967</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1610,7 +1610,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>3 817</td>
+<td>5 967</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -1666,7 +1666,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңiстiк</td>
-<td>15 965</td>
+<td>33 553</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1674,7 +1674,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>15 965</td>
+<td>33 553</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1682,7 +1682,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>15 965</td>
+<td>33 553</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1690,7 +1690,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td>15 965</td>
+<td>33 553</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1786,12 +1786,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1838,7 +1838,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1856,11 +1856,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -1888,7 +1888,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1906,11 +1906,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
@@ -1938,7 +1938,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1956,11 +1956,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -2699,18 +2699,18 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 </tr>
 </table>
 
-> *Индер аудандық мәслихаттың*  
+> *Аудандық мәслихаттың*  
 > *2020 жылғы 29 желтоқсандағы*  
 > *№ 454-VI шешiмiне 7-қосымша*
 
 ## Индер ауданы Көктоғай ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі); жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 13.08.2021 № 41-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -2739,7 +2739,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>І. Түсімдер</td>
-<td>72 779</td>
+<td>72 929</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2795,28 +2795,31 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>66 324</td>
+<td>66 474</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>66 324</td>
+<td>66 474</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>66 324</td>
+<td>66 474</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="5">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -2841,12 +2844,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2854,7 +2857,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>73 960</td>
+<td>74 110</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2862,7 +2865,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>45 494</td>
+<td>45 644</td>
 </tr>
 <tr>
 <td></td>
@@ -2910,7 +2913,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Қаржылық қызмет</td>
-<td>290</td>
+<td>440</td>
 </tr>
 <tr>
 <td></td>
@@ -2918,7 +2921,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>290</td>
+<td>440</td>
 </tr>
 <tr>
 <td></td>
@@ -2926,7 +2929,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>053</td>
 <td>Аудандық маңызы бар қаланың, ауылдың, кенттің, ауылдық округтің коммуналдық мүлкін басқару</td>
-<td>290</td>
+<td>440</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -3102,12 +3105,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -3154,7 +3157,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3172,11 +3175,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -3204,7 +3207,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3222,11 +3225,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
@@ -3254,7 +3257,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3272,11 +3275,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -3951,18 +3954,18 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 </tr>
 </table>
 
-> *Индер аудандық мәслихаттың*  
+> *Аудандық мәслихаттың*  
 > *2020 жылғы 29 желтоқсандағы*  
 > *№ 454-VI шешiмiне 10-қосымша*
 
 ## Индер ауданы Елтай ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі); жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 13.08.2021 № 41-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3974,24 +3977,24 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
-<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>І. Түсімдер</td>
-<td>87 952</td>
+<td>88 531</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4047,28 +4050,31 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>82 572</td>
+<td>83 151</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>82 572</td>
+<td>83 151</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>82 572</td>
+<td>83 151</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="5">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -4093,12 +4099,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4106,7 +4112,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>89 459</td>
+<td>90 038</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4114,7 +4120,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>44 404</td>
+<td>46 954</td>
 </tr>
 <tr>
 <td></td>
@@ -4122,7 +4128,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкілді, атқарушы және басқа органдар</td>
-<td>44 204</td>
+<td>46 754</td>
 </tr>
 <tr>
 <td></td>
@@ -4130,7 +4136,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>44 204</td>
+<td>46 754</td>
 </tr>
 <tr>
 <td></td>
@@ -4146,7 +4152,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>1 272</td>
+<td>3 822</td>
 </tr>
 <tr>
 <td></td>
@@ -4186,7 +4192,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>1 043</td>
+<td>1 470</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4194,7 +4200,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>1 043</td>
+<td>1 470</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4202,7 +4208,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1 043</td>
+<td>1 470</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4210,7 +4216,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>1 043</td>
+<td>1 470</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -4218,7 +4224,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй- коммуналдық шаруашылық</td>
-<td>19 865</td>
+<td>17 467</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4226,7 +4232,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>19 865</td>
+<td>17 467</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4234,7 +4240,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>19 865</td>
+<td>17 467</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4242,7 +4248,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>14 185</td>
+<td>11 787</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4361,7 +4367,10 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы, мың теңге</td>
+<td rowspan="5">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -4386,12 +4395,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4438,7 +4447,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -4456,11 +4465,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -4488,7 +4497,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -4506,11 +4515,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
@@ -4538,7 +4547,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -4556,11 +4565,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -5299,18 +5308,18 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 </tr>
 </table>
 
-> *Индер аудандық мәслихаттың*  
+> *Аудандық мәслихаттың*  
 > *2020 жылғы 29 желтоқсандағы*  
 > *№ 454-VI шешiмiне 13-қосымша*
 
 ## Индер ауданы Есбол ауылдық округінің 2021 жылға арналған бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 12.04.2021 № 21-VІI (01.01.2021 бастап қолданысқа енгізіледі); жаңа редакцияда - Атырау облысы Индер аудандық мәслихатының 13.08.2021 № 41-VІI (01.01.2021 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -5328,18 +5337,18 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>І. Түсімдер</td>
-<td>112 152</td>
+<td>186 070</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5395,21 +5404,21 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>104 682</td>
+<td>178 600</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>104 682</td>
+<td>178 600</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>104 682</td>
+<td>178 600</td>
 </tr>
 </table>
 
@@ -5441,12 +5450,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5454,7 +5463,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>115 567</td>
+<td>189 485</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5534,7 +5543,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>3 630</td>
+<td>6 348</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5542,7 +5551,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>3 630</td>
+<td>6 348</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5550,7 +5559,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>3 630</td>
+<td>6 348</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5558,7 +5567,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>003</td>
 <td>Мұқтаж азаматтарға үйде әлеуметтік көмек көрсету</td>
-<td>3 630</td>
+<td>6 348</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -5590,7 +5599,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>5 000</td>
+<td>6 400</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -5606,7 +5615,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандару</td>
-<td>2 067</td>
+<td>667</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -5673,6 +5682,38 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>300</td>
 </tr>
 <tr>
+<td colspan="2">13</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>71 200</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>71 200</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>71 200</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>057</td>
+<td>«Ауыл-Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылым бойынша іс-шараларды іске асыруға</td>
+<td>71 200</td>
+</tr>
+<tr>
 <td colspan="2">15</td>
 <td></td>
 <td></td>
@@ -5734,12 +5775,12 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5786,7 +5827,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -5804,11 +5845,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -5836,7 +5877,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -5854,11 +5895,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
@@ -5886,7 +5927,7 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы,мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -5904,11 +5945,11 @@ source: https://zan.gov.kz/client/#!/doc/151004/kaz/12.04.2021
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
