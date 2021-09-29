@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/150732/kaz/25.06.2021
+source: https://zan.gov.kz/client/#!/doc/150732/kaz/29.09.2021
 ---
 
 > *Атырау облыстық мәслихатының*  
