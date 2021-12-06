@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151031/kaz/30.09.2021
+source: https://zan.gov.kz/client/#!/doc/151031/kaz/06.12.2021
 ---
 
 > *Аудандық мәслихаттың 2020*  
