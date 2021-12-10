@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151040/kaz/22.10.2021
+source: https://zan.gov.kz/client/#!/doc/151040/kaz/10.12.2021
 ---
 
 > *Қызылқоға аудандық мәслихатының*  
