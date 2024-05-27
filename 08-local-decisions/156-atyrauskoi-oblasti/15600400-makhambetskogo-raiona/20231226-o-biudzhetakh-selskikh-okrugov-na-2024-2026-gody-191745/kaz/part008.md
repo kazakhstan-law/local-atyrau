@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
+source: https://zan.gov.kz/client/#!/doc/191745/kaz/27.05.2024
 ---
 
 > *Аудандық мәслихаттың*  
@@ -4011,17 +4011,16 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 
 > *Аудандық мәслихаттың*  
 > *2023 жылғы 26 желтоқсандағы*  
-> *№ 92 шешіміне*  
-> *13 қосымша*
+> *№ 92 шешіміне 13 қосымша*
 
 ## 2024 жылға арналған Бейбарыс ауылдық округінің бюджеті
 
-> *Ескерту. 13-қосымша жаңа редакцияда - Атырау облысы Махамбет аудандық маслихатының 19.03.2024 № 111 (01.01.2024 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Атырау облысы Махамбет аудандық маслихатының 19.03.2024 № 111 (01.01.2024 бастап қолданысқа енгізіледі); 27.05.2024 № 122 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4037,14 +4036,13 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>А т а у ы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>143644</td>
+<td>139458</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4233,28 +4231,28 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>Трансферттер түсімдері</td>
-<td>113596</td>
+<td>109410</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>113596</td>
+<td>109410</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>113596</td>
+<td>109410</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4270,14 +4268,13 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>А т а у ы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>149857</td>
+<td>145671</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4389,7 +4386,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>Тұрғын үй – коммуналдық шаруашылық</td>
-<td>36719</td>
+<td>32533</td>
 </tr>
 <tr>
 <td></td>
@@ -4424,7 +4421,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>25360</td>
+<td>21174</td>
 </tr>
 <tr>
 <td></td>
@@ -4452,7 +4449,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>10057</td>
+<td>5871</td>
 </tr>
 <tr>
 <td>08</td>
@@ -4564,7 +4561,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4580,7 +4577,6 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>А т а у ы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4607,7 +4603,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>1</td>
-<td>Мемлекеттік бюджеттен берілгенбюджеттік кредиттерді өтеу</td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td></td>
 </tr>
 </table>
@@ -4615,7 +4611,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4631,7 +4627,6 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>А т а у ы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4659,7 +4654,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4675,7 +4670,6 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>А т а у ы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4710,7 +4704,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4726,7 +4720,6 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>А т а у ы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4768,7 +4761,7 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4784,7 +4777,6 @@ source: https://zan.gov.kz/client/#!/doc/191745/kaz/19.03.2024
 <td></td>
 <td></td>
 <td>А т а у ы</td>
-<td></td>
 </tr>
 <tr>
 <td>8</td>
