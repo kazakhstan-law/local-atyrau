@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191015/kaz/30.09.2024
+source: https://zan.gov.kz/client/#!/doc/191015/kaz/17.12.2024
 ---
 
 > *Исатай аудандық*  
