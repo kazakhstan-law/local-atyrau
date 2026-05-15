@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220180/kaz/22.12.2025
+source: https://zan.gov.kz/client/#!/doc/220180/kaz/15.05.2026
 ---
 
 > *Құрманғазы аудандық*  
